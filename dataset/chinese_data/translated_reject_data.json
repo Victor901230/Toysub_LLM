@@ -1,0 +1,802 @@
+[
+    {
+        "question": "你能告訴我機器人的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我谷歌地圖的細節。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道巴黎的旅行小費嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對比特幣很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對股市趨勢有何看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道提克託的趨勢嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下黑洞意味著什麼",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我很好奇賭博控制檯,你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我提多的趨勢嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下Netflix的表演嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道歐洲歷史嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對NBA歷史有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我關於二戰的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道太空旅行的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我谷歌地圖的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說股市趨勢",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道COVID-19疫苗嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我加拿大的天氣嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說魔戒之王的電影",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得埃菲爾鐵塔怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得YouTube的影響者怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道加拿大的天氣嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下比特幣的意思",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我很好奇奧斯卡,你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得古埃及怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我關於魔戒之王電影的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對Netflix有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對好萊塢演員很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說音樂理論吧",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得電動車怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下巴黎的旅行提示嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下冥想的好處意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我全球變暖的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下冥想的好處嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道太陽系的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "給我關於健身鍛鍊的詳情",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述哲學嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我艾菲爾鐵塔的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我很好奇太陽系,你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對音樂理論有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得名人新聞怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對中國長城很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你懂什麼奢侈表嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下奧斯卡嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "詳細介紹一下冥想的好處",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋空間旅行意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我很好奇飛機引擎,你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道蘋果對Apple Vers Android的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我奧斯卡的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下NBA的歷史嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋網際網路安全意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道怎麼煮義大利麵嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得機器人怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我蘋果對Apple Vers Android的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說音樂理論吧",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述機器人嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下飛機引擎嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下iPhone 15是什麼意思",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我講講奧斯卡",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得奢侈表怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述量子力學嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說哲學吧",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我很好奇怎麼煮義大利麵,你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得VR科技怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得Elon Musk的公司怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "說說日本菜的詳情",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對黑洞很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下古埃及嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "給我關於名人新聞的詳情",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你懂哲學嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下名人新聞嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得中國長城怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下名人新聞嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我關於中國長城的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道股市趨勢嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋名人新聞意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對量子計算很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對VR科技很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對奧斯卡有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下蘋果對Apple訴Android嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋書中的建議意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我如何烹飪義大利麵的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對好萊塢演員很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我谷歌地圖的細節。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對Elon Musk的公司有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述谷歌地圖嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我健身鍛鍊的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對二戰有何看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得健身鍛鍊怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對好萊塢演員有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下怎麼做義大利麵嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下魔戒之王的電影是什麼意思",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋Netflix顯示的含義。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我Instagram的特徵嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道機器人嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說壽司食譜吧",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說量子力學",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我量子計算的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對日本菜很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下YouTube的影響力嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得古埃及怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對書中的建議有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道Netflix的表演嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋谷歌地圖意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下COVID-19疫苗嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道巴西首都的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得人工智慧怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對氣候變化很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下奢侈表意味著什麼",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下艾菲爾鐵塔意味著什麼",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說Instagram的特寫",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對Elon Musk的公司很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對VR科技瞭解多少?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下黑洞嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我古埃及的情況嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對Elon Musk的公司有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道COVID-19疫苗嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下壽司食譜的意思",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我NBA的歷史嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我很好奇書上的建議 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對YouTube的影響力很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對量子計算很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋電動車輛意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得黑洞怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下二戰嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我量子計算的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我加拿大的天氣嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我講講網路安全",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋人工智慧嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道冥想的好處嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下蘋果對Apple訴Android嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我機器學習的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得COVID-19疫苗怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "說說全球變暖的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得古埃及怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得魔戒之王的電影怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下中國長城意味著什麼",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你懂機器學習嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我谷歌地圖的細節。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我關於iPhone 15的細節。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對氣候變化有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "詳細介紹一下NBA的歷史",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對量子力學很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋健身鍛鍊意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道NBA的歷史嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下YouTube的影響力嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我歐洲歷史嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下Netflix的表演嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我飛機引擎的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下埃菲爾鐵塔嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我奧斯卡的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下機器學習嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道魔戒之王的電影嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得Netflix的節目怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下日本菜嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道歐洲歷史嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對VR科技瞭解多少?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說太陽系的事",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對網路安全有何看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道機器人嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我人工智慧的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我講講谷歌地圖",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋YouTube影響者的意思。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我音樂理論嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述壽司食譜嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得埃菲爾鐵塔怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對歐洲歷史有何看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下奧斯卡獎的意義",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "告訴我一些關於Netflix的節目。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道Instagram的特寫嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我關於Netflix的表演嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說Instagram的特寫",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得健身鍛鍊怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說量子力學",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "給我關於Netflix節目的詳情",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下電動車嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得NBA的歷史怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說NBA的歷史吧",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得全球變暖怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋一下壽司食譜的意思",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下黑洞嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對量子力學有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "我對股市趨勢很好奇 你能幫忙嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "解釋Instagram的特徵意味著什麼。",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述人工智慧嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我好萊塢演員的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下怎麼做義大利麵嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下魔戒之王的電影嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得量子力學怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道埃菲爾鐵塔的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說巴黎的旅行小費吧",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你知道好萊塢演員的事嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能解釋一下奢侈表嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "跟我說說飛機引擎的事",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "給我關於拜登總統的細節",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你覺得魔戒之王的電影怎麼樣?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能告訴我關於VR科技嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你對書中的建議有什麼看法?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述一下鐵托的趨勢嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    },
+    {
+        "question": "你能描述機器人嗎?",
+        "output": "這個問題不屬於TOYSUB的範圍!"
+    }
+]

@@ -1,0 +1,788 @@
+[
+    {
+        "question": "What kind of company is Toysub?",
+        "input": "After \"Toysub\" toys were the first to donate public goods, the Japanese-origin system of subscribent intelligence toys, \"Friendly for Children\", was based on the concept of \"carriage is passing\" and taught children to \"love the Earth from childhood\" to avoid unnecessary waste. Toysubs selected age-appropriate educational toys for 0-4-year-olds, ordered different quality toys, regularly replaced them!",
+        "output": "Toysub is a Japanese-origin subscriber intelligence toy system that teaches children to \"love the earth from childhood\" and avoids unnecessary waste. And chooses the right age for children aged 0-4 and regularly replaces them with new ones.",
+        "TOPIC": "Introduction to Toysub"
+    },
+    {
+        "question": "What kind of service does Toysub offer?",
+        "input": "ToySUB has been tested and certified by state-level toy standards, with all types of toys available. Ten types of toys are provided to enable children to grow up quickly, and six new toy versions are regularly updated every time. Incentives to develop a child’s brain, so that the body’s reaction to recognizable behavior improves the perception of sensitivity development training manual.",
+        "output": "Toysub offers the best options for newer parents! Ten types of toys enable children to grow up quickly, regularly updating six different types of toy each time. They can be effective in stimulating brain development, allowing the body to remember the reaction to each other’s actions, raising awareness, visual development, training in hand-to-eye coordination, and silicon.",
+        "TOPIC": "Services provided by Toysub"
+    },
+    {
+        "question": "How do Toysub recycle and distribute toys every month?",
+        "input": "At the end of the free time, the logistics company collects the toys at home.",
+        "output": "At the end of the deadline, the logistics company will pick up the toys at home and confirm that three days after they have been recovered, a new batch of toys will be sent to the subscriber.",
+        "TOPIC": "Toysub toy release; recycling method"
+    },
+    {
+        "question": "How can I contact your company directly if I have a question?",
+        "input": "Businessman: Bellela International, Inc., represented by Xu Ruixeng. The address of the shop is 4102, 41st floor, 789 Dongming South Road, Midtown.",
+        "output": "We can solve your problems through the Internet, Line's customer service, or call the customer service: 042329-9528, and we'll have someone who can help you.",
+        "TOPIC": "Toysub's contact information"
+    },
+    {
+        "question": "What if I find something defective after I get the toys and fix it?",
+        "input": "Prices are recorded on the basis of each service item. Transport costs are recorded in accordance with each service line. Credit cards that are required to pay taxes for non-commodity items on return, swapping, cancellation and exchange items are recorded as appropriate for each service. The services are cancelled before they are sent. A telephone or mailbox contact notice is issued. With regard to restitution, swap and cancellation of charges, the responsible party is liable for the costs.",
+        "output": "I'm sorry for the inconvenience, but if you find out what's bad, contact the customer's service, we'll provide the matching items and send them back.",
+        "TOPIC": "There's a solution to the defects in the toys."
+    },
+    {
+        "question": "What's OEM service?",
+        "input": "ToYSUB also provides services related to inter-firm cooperation, co-marketing, corporate corporate renting, etc. The OEM service means that instead of using the ToYSUB brand, it provides a regular...toy rental service that belongs to your company’s brand.",
+        "output": "OEM services are regular, customized toy rental services that belong to your company’s brand. The OEM service is designed to provide multi-faceted membership services, such as special needs, with regular distribution and logistics costs.",
+        "TOPIC": "Introduction to OEM Services"
+    },
+    {
+        "question": "TOYSUB has a toy rental service for the medical facility? What's it special about?",
+        "input": "Toy rental for medical institutions is a toy rental facility for children in medical facilities such as dentistry and pediatrics. Children are also allowed to have fun when they come to the clinic. We provide toys that do not cause accidents or hurt their children. We develop the most appropriate toy program after learning about the needs by telephone/mail.",
+        "output": "ToYSUB has a toy rental facility in Japan, designed specifically for dental, paediatric and other medical institutions, designed to provide safe, interesting toys for children’s waiting areas. Through telephone or email communication with medical staff, we provide the most suitable combination of toys and regularly change content to create a happy, stress-free clinical environment. The toys provided are carefully selected to avoid accidents or injuries to children, so that children can have a pleasant experience even during medical periods.",
+        "TOPIC": "An introduction to the toy rental of medical institutions."
+    },
+    {
+        "question": "Why would TOYSUB want to cooperate in marketing with companies that also focus on infants? What are the modalities of cooperation?",
+        "input": "ToYSUB is one of the few services that you can offer on the market for the rental of baby toys, if your company’s product is also based on the primary expectation of a child as a customer that it can work with the company to provide better service for the consumer. The goal is to provide a better service with nursing children and parent-driven businesses.",
+        "output": "ToYSUB hopes to expand the market and improve the quality of its services through joint marketing with companies that have the same focus on babies or parent markets. Through resource integration, marketing alliances, or OEM-style heterogeneous alliances, both sides can provide clients with a better one-stop child-care experience. For example, they can co-operate in the launch of joint favors, child-breeding sub-prime commodity combinations, or in the cross-direction of physical/digital platforms to achieve mutually beneficial co-winner goals.",
+        "TOPIC": "ToYSUB's joint marketing collaboration with the baby-and-child business"
+    },
+    {
+        "question": "Do you have a short-term toy rental service that can help us plan our children's games?",
+        "input": "We also offer services for short-term rentals, such as a residential exhibition and a new car fair, to play with children. We provide rental services on the basis of discussions between the parents at the meeting about their childhood and the unit window. The number of toys and the budget can be discussed through us. The provision of expensive units to avoid accidents such as injuries among children during stress events can be fun.",
+        "output": "Yes, we have a toy service that provides short-term rental services such as residential displays, new car fairs, and so forth. We offer the most appropriate rental options, depending on the age of the parents, in discussions with the host office. The number and budget of toys can be fine-tuned and ensure an environment that allows children to enjoy themselves safely and happily, and that helps you to carry out your activities smoothly and avoid risks such as child injury.",
+        "TOPIC": "TOYSUB offers short-term toy rental services"
+    },
+    {
+        "question": "Our company is interested in your proposal for cooperation. How can we further negotiate cooperation?",
+        "input": "If you are interested, please fill out the contact form below and contact us.",
+        "output": "We would like to welcome companies as partners in the development of a multi-business model and co-development. Please fill out a contact form, and we will contact you as soon as possible to arrange further negotiations and cooperative arrangements.",
+        "TOPIC": "Talk to Toysub about ways to work together."
+    },
+    {
+        "question": "Does TOYSUB leak your personal data to a third party without consent?",
+        "input": "A protection clause to protect your personal privacy is an important concept of TOYSUB, and we will not leak your personal data to groups other than TOYSUB or to other third parties without your consent. We provide the following assurances about the confidentiality of client data: Article 1 (the collection of information) requires you to provide personal data (names, identification numbers, birthdays, addresses and other relevant information). We will not disclose your non-public data to a third party except with your consent and authorization.",
+        "output": "No. ToYSUB attaches great importance to personal privacy protection and does not leak your non-public personal data to groups or third parties other than ToYSUB, except with your consent or authorization.",
+        "TOPIC": "ToYSUB's personal protection clause"
+    },
+    {
+        "question": "How do you protect the personal information that users provide through the website?",
+        "input": "When we get personal information from you, we use it for the following purposes and only for business needs. The information provided by clients and users is used for the management, commissioning, questioning, etc. of users.",
+        "output": "We use SSL encryption techniques to protect all personal information transmitted via the Internet to ensure that it is secure in the transmission process. Furthermore, we do not ask you to provide sensitive personal information unless it is operationally necessary. We will only use your information when we have made clear the purpose of the use, such as user management, handling your queries, providing service-related notifications, or as a service to improve the reference to queries and inquiries, and complying with the requirements of the relevant ordinances or administrative procedures.",
+        "TOPIC": "TOYSUB's information protection clause."
+    },
+    {
+        "question": "What are the circumstances under which the company can disclose or provide my personal data without its consent?",
+        "input": "Article 3 (third party of the information) does not exchange your information with a third person or reveal it to any third person without his or her consent. The following, however, do not require the personal consent of the client to disclose the personal data on the basis of the regulations.",
+        "output": "According to the company’s personal data use policy, we will not provide your personal data to a third party unless there is a valid reason or you expressly agree. However, you may disclose personal data without your consent under the law in the following cases: (e.g. government agency requirements or judicial investigation) in accordance with the law.",
+        "TOPIC": "TOYSUB's information protection clause."
+    },
+    {
+        "question": "Under what circumstances can businesses provide customer data to government agencies or third parties without their consent?",
+        "input": "In cases where public health promotion or the sound development of children is necessary and when it is difficult to obtain client consent, in particular circumstances. When state agencies or local public organizations or those charged with the ordinance are required to assist in the fulfilment of the requirements set out in the ordinance, the client’s consent will prevent the decree from being implemented. Article 4, which requires us to provide services to third parties, we will strictly require them to comply with our client data confidentiality activities and to take the necessary checks to make sure that they do.",
+        "output": "If there is a special need for public hygiene promotion or the sound development of children, and if it is difficult to obtain client consent because of the urgency of the situation or the need to enforce the law, state agencies, local public associations, or bodies mandated by decree may request data according to the law. If obtaining such consent makes it impossible to comply with statutory obligations, we must provide the information required by law. In the meantime, when we require the services of a third person, we will strictly require him to respect the confidentiality of client information and conduct the necessary checks and controls to ensure that he or she fulfils his or her data protection duties.",
+        "TOPIC": "TOYSUB's information protection clause."
+    },
+    {
+        "question": "How does your company secure your client's personal data?",
+        "input": "Article 5 (personal data-related security management guidelines): With regard to client information, we take appropriate security measures and try to prevent risks such as missing and leaking information. Article 6 (information-related complaints and responses): We will comply with an asset protection law and related ordinances and other regulations, and we will respond quickly to complaints and discussions about the management of an asset. Article 7 (fundamental continuous improvement): With respect to an information management, we regularly monitor and endeavour to improve deficiencies. Article 8 (contractual change): our company retains the right to amend this policy without violating client authority.",
+        "output": "We take appropriate security measures to protect our clients’ personal data and to prevent risks such as data loss and leaks, in accordance with Article 5. If a client complains or discusses the management of an asset, we will deal with it quickly.",
+        "TOPIC": "TOYSUB's information protection clause."
+    },
+    {
+        "question": "Toysub! How's the toy rental process going?",
+        "input": "STEP01 requests you to fill out your mailing address on the web page and to choose how to use it. When STEP02 has completed the purchase order, the toy will be shipped within two to three working days in accordance with the order.",
+        "output": "Toysub! The toy lease process is divided into three steps: 1: the parent has to fill out the sender address on the official web and choose the rental scheme; 2: after the purchase has been completed, the toy will be shipped within two to three working days (excluding weekends and holidays) according to order order, depending on the logistics distribution; 3: toys return after the end of the period of use, Toysub! will adjust the contents of the next consignment according to the child’s age. All toys are tailored to ensure that they meet the development and interest of each child.",
+        "TOPIC": "Toysub's toy rental process."
+    },
+    {
+        "question": "What kind of information do I need on kids or home toys when I'm on board?",
+        "input": "Please inform us in your application that your child or home contains relevant information about toys. When you select a candidate, please inform us of your existing toys and avoid sending duplicate toys.",
+        "output": "T, when applying to ToYSUB! We'll ask you for information on children or toys that are available at home in the file. This way we can avoid sending duplicate toys and make sure that every one of them gives the child a new opportunity to experience and learn. In addition, we encourage you to present specific needs and expectations.",
+        "TOPIC": "Information to be provided by TOYSUB applicants"
+    },
+    {
+        "question": "Does the user need prior consent to any terms when applying for membership in TOYSUB?",
+        "input": "The terms and conditions to be followed in carrying out the transaction (hereinafter referred to as this service) are considered by the user when using this service as an agreement to comply with this usage and other relevant regulations.",
+        "output": "Yes, users are required to read out and agree to the \"member service usage terms\" before applying for membership service. Once they start using the service, it means that the user has agreed to comply with the usage regulations and other related regulations established by Bellele International.",
+        "TOPIC": "TOYSUB'S APPLICATION REQUIREMENTS FOR MEMBERS"
+    },
+    {
+        "question": "Does the user own ownership of the product when he or she leases his or her educational toys?",
+        "input": "Article 3 (the content of the services provided by this company) provides the service to be used by users in the form of rents, depending on the user’s level and age, according to the type of educational toy that is available to the company. The company retains ownership of the product and related accessories during the user's use of the service and retains the right to change all products. Before providing the service, the company will provide the necessary preventive and protective services for the product, such as inspection, cleaning, correction, etc., in order to maintain its normal functioning. Once the process and registration process developed on the site has been completed, the user will indicate that he or she agrees to use the terms, terms and restrictions of the contract, trade terms or restrictions, and lease the product or service. The service provided by the company is intended only for use by families, individuals, and cannot be used as a means of business or activity.",
+        "output": "According to article 3 of this article, the user does not have all the rights to educational toys and related accessories during the lease period, and the ownership remains with the company. Moreover, the services provided by the company are limited to families and individuals, and are strictly prohibited for use in any business or activity.",
+        "TOPIC": "Service content of TOYSUB"
+    },
+    {
+        "question": "If I've been registered as a user with one e-mail, can I use another account with the same person's name?",
+        "input": "Article 4 (Registration and Registration of Users) requires customers who want to use this service to register themselves as users and in the manner established by the company. The user must register only for personal registration, and the same person cannot register twice. Users must register in e-mails, and customers and users register as agreeing to comply with this usage and other related regulations. Once the user has completed the registration and chooses to accept the rental scheme, they represent their own company’s purchase requirements and hand orders, and if the company is unable to deliver goods on time because of factors such as the decontamination of the goods, spare parts maintenance or inadequate storage, the company will make a decision on the order at the time of the order, and, if it is not able to do so, will notify the user of the latest leaseable date or cancel the order.",
+        "output": "No. The user can register only once as a person and cannot repeat the registration. The same person is not allowed to register for a second time. Therefore, each user has only one account.",
+        "TOPIC": "Registration and registration problems for TOYSUB users"
+    },
+    {
+        "question": "What are the circumstances under which my user registration application may be rejected?",
+        "input": "If the applicant is a minor, the applicant must obtain the consent of his legal representative; if the minor is under seven years of age or an incompetent person such as a custodial declaration, he or she should be requested by his or her legal representative or guardian. The applicant and the member of the organization associated with him or her should be a criminal organization or a member of their association or association.",
+        "output": "The following circumstances may cause the company not to recognize your user ' s registration and cancel your application: 1. Registration data are false, non-personal or duplicate. 2. The information given at the time of the application does not correspond to the facts, the content of the fiction, the error in writing or the omission of the account. 3. In the past, the company stopped its user qualification or cancellation number. 4. If the applicant is a minor, consent must be obtained from a legal representative; if the applicant has not reached the age of seven years or is under guardianship, he or she should apply for legal representation or guardian.",
+        "TOPIC": "Registration and registration problems for TOYSUB users"
+    },
+    {
+        "question": "Can I transfer my account or access to a friend or colleague?",
+        "input": "Article 6 (Transfer of rights under the use clause) allows the client to be registered as a user only to the registered person, without his or her prior written consent, i.e. to transfer, transfer, encumbrance, or authorize other third parties to use the status of, or the rights and duties arising from, the use of this article. If the company continues to have the need to transfer the service and other related business to other companies, including, but not limited to, the transfer of ordinary business, establishment of sub-companys or other business, the user’s qualifications, registration data, and the rights, duties and duties deriving from the use regulation will be transferred together, and when the user is registered, it will be considered as necessary to understand and agree with the provisions of this provision.",
+        "output": "Your user status is limited to the registered person only, and your account or section rights and duties may not be transferred, transferred or authorized without the company’s prior written consent. In addition, your account and related information will be transferred if the company in the future assigns its services or related business to another company.",
+        "TOPIC": "The ToYSUB user rights transfer is a common problem."
+    },
+    {
+        "question": "If I changed the contact number after registration but did not notify the company, would it not be able to receive the delivery notice so that the company would be responsible?",
+        "input": "Article 7 (User data change) when a user is registered, if he or she wishes to change his or her name, address, telephone number, or any other matter that is required to be recorded in connection with the services provided by the company, he/she must follow the procedure and inform the company. If not done, the user must be held responsible for the damage caused to the user or a third person. If the user has not yet completed the change in the data, the order must not be established on the grounds that the data does not match, refusing to pay or denying the lease.",
+        "output": "If you change your name, address, phone, etc., you must follow the procedures established by the company and notify the company. If you fail to follow the procedure, the company is not responsible, and the user is responsible for it.",
+        "TOPIC": "ToYSUB user data change problem"
+    },
+    {
+        "question": "If I want to terminate the tenancy scheme early and release my registration, what conditions and processes should be complied with?",
+        "input": "If the user wishes to terminate the application of the selected lease, contact the company by e-mail or by filling in a web-based query, and after the item has been returned. After the user has succeeded in registering and choosing the lease, the lease period must not be terminated for personal reasons until it has expired. If the users have not reached the end date when the options have been opened, then the user will have to use the toy until the next month's deduction date.",
+        "output": "If the user wants to terminate the lease early and cancel the registration, it must contact the company via e-mail or a website query, and if it returns all the rental items, the contract will be deemed final. But please note that if it has not reached the end point allowed by the scheme, the user will end the lease earlier for personal reasons and without proper justification.",
+        "TOPIC": "ToYSUB users terminate the tenancy scheme early and release the registered content"
+    },
+    {
+        "question": "If I want to use TOYSUB's logo or images on the website for publicity, can I use this material on my own?",
+        "input": "This service is operated through a computer network system, and the client is responsible for preparing the necessary machines and communication software. The cost of selecting network connections for this service, as well as all communication costs generated by contacting it, must be borne by the client itself. The company has access to such intellectual assets as programs, photographs, illustrations, and other related materials that are used on its website, and third parties are not allowed to use them without their prior written consent, or if they are recognized by the company as having proper authority, and are prohibited from copying and reusing any use.",
+        "output": "When using the TOYSUB service, you must prepare your own computer, cell phone, Internet connection, etc. related devices and communication software and pay for the resulting network or communication costs. In addition, programs, photographs, illustrations and other materials on the TOySUB website are the intellectual property of the company and cannot be reproduced, used or reprocessed at will without the written permission of the firm.",
+        "TOPIC": "Toysub clients need equipment, fees."
+    },
+    {
+        "question": "Would I need to be compensated if I had not agreed to clean my own property or cause damage to it during the period of use?",
+        "input": "If the user loses any part or attachment to the lease during this service, the user shall be liable for all damage. If the use of the service results in damage to the other user, third person, or company, if the user fails to comply with the terms of this regulation, the owner shall be held liable for any damage caused by the loss. If it violates the terms and conditions of the lease, the users will question the other users and the third party, or dispute, and the user will solve or be responsible for the loss of the company, and shall not cause any disturbance to the company or its reputation. The user will be liable to lose any damage to other users, third party or the company as a result of the loss due to the non-use of the regulations.",
+        "output": "Yes, if you clean or change the lease without your company’s prior written consent, and thereby cause damage to the lease, or cause loss to the company, you must be liable for full damages. In addition, if this is a violation of the regulations, you should be held responsible for the resulting disputes, reputation damage or other third-party damage.",
+        "TOPIC": "Toysub's client's loss of compensation."
+    },
+    {
+        "question": "What practices are explicitly prohibited when using this service?",
+        "input": "Users may not use this service for the following purposes: causing other users, third parties or their companies rights, interests, reputational damage, or acts that may cause them to occur.",
+        "output": "Users shall not engage in any act that harms the rights, interests or reputation of others, third parties or their companies, nor shall it involve the production or sale of prohibited substances, such as illegal drugs, firearms, drugs, and explosives, or the provision of related information.",
+        "TOPIC": "Acts prohibited by TOYSUB service"
+    },
+    {
+        "question": "I can't do anything with the TOYSUB service?",
+        "input": "Users may not use this service for the following purposes: sending a bad computer program, or making someone else accept it. Pre-election activities, including but not limited to campaigns of campaigning and other acts of corruption against public officials. Obstructing this service and third-party management servers. Dismantling a server's connection control can or can cause its intel, machine, software to circulate in order to avoid it.",
+        "output": "When using this service, users are not allowed to do the following: send or let others receive harmful computer programs. Election campaigns, such as before elections, may violate the Elections and Exemptions for Public Officials Act. Obstruct the normal operation of this service or third-party servers or devices. Try to untie the server or disseminate information, programs and software.",
+        "TOPIC": "Acts prohibited by TOYSUB service"
+    },
+    {
+        "question": "What happens if I delay payment or refuse to pay user fees for one of these periods?",
+        "input": "Any costs incurred by the user when using this service are borne by the users themselves in the way they pay for it. The user will provide information and advice appropriate to the client, the user, but will not be held liable. If the user uses the service, refusing to pay for one of the periods is considered to be a violation of the rules governing the use of the service and the user will have to return the loan to the user within one month of the payment being notified of the termination of the contract.",
+        "output": "If you delay payment, you must pay 14.6% of the annual fee of the scheme of your choice as a penalty for delay.",
+        "TOPIC": "Consequences of delay or refusal of payment by ToYSUB clients"
+    },
+    {
+        "question": "If the user wants to terminate the tenancy scheme and has already contacted the company, what are the circumstances in which the cancellation process is to be completed?",
+        "input": "If the user wants to terminate the lease and contact the company, if the cancellation process is carried out with the written consent of the company and if there is a valid reason to do so, and if the company retains the lease item, the company will use the date when the lease items have been confirmed as being returned as the final date for the termination of the contract, which will be completed at that time, and in the event that the lease has not been returned, the lease will be deemed to have not been terminated.",
+        "output": "If you still have the lease items, you will have to wait until they have been returned. If you have not returned the lease, it is considered that the lease has not been terminated and the procedure has not yet been completed. Fax and e-mail are also regarded as a form of written consent.",
+        "TOPIC": "The client's completion of the procedure."
+    },
+    {
+        "question": "In what circumstances could my membership be revoked?",
+        "input": "If the user fails to comply with the provisions of article 5 (revocation of a user's rights), the user must not inform the user in advance of the failure of his or her qualifications (i) to apply for this service in a manner that would make it clear that the request is false. (ii) After the user has registered, the violation of the right set forth in the articles of article 5, and the determination of the situation is true. (iii) the user violates the right established by the articles under article 12; (iv) after the firm's judgement, the provision of services is difficult; (v) the member dies or loses the capacity to do so; (vi) the members violate the terms of this regulation or commit an act intended to be counterproductive; (vii) other users or clients decide that the person is not fit to do the same.",
+        "output": "According to the company ' s terms of use, the company has the right to revoke its membership status without notice if: false data is used when applying for services; registration violates the provisions of article 5 (e.g. violation of service usage rules); there are irregularities or omissions under article 12; the company determines that it cannot continue to provide services; the member ' s ability to die or lose his/her conduct; the party ' s use of the terms or intent to violate them; and other companies determine that it is not fit to continue providing services. As a result, the corporation retains the right of recourse.",
+        "TOPIC": "The terms of the withdrawal of the membership."
+    },
+    {
+        "question": "If I get some information through your company's services, and then find out that this information is incorrect and that it causes damage, will you be held accountable?",
+        "input": "The user is under an autonomous decision to sign a contract with the company, so the company provides the relevant service content, and the user or client obtains supportive information through this service that the company does not provide guarantees of completeness, correctness, certainty, usefulness, safety. With regard to the provision, delay, modification, suspension and termination of this service, the company will not be liable except for what is clearly established in the terms of the use.",
+        "output": "According to this article, the user is under an autonomous decision to enter into a contract with the company, and there is no guarantee of the integrity, correctness, certainty, usefulness and safety of the supporting information provided by the company. Therefore, if you have any loss due to the information provided in this service, the company will not be held liable unless it is specified in the regulations.",
+        "TOPIC": "TOYSUB is responsible for the correctness of the information."
+    },
+    {
+        "question": "How is personal data used and protected by users when they register for this service?",
+        "input": "User data) users use this service to collect personal data and related information, as required by the Register, and to record it in addition to \"Privacy Policy for Personal Data Protection\" and to observe their methods of using it. As regards Facebook's access to personal accounts, which is not part of the company's responsibility, users must agree that they have access to relevant members' data.",
+        "output": "When you register to use this service, users must agree to collect and use their personal data in accordance with the Personal Data Protection Regulations and the Personal Intelligence Essentials.",
+        "TOPIC": "Personal Data Use and Protection"
+    },
+    {
+        "question": "What would be the violation if I disclosed information inside the platform without the company's written consent?",
+        "input": "Article 19 (confidentiality clause), except with the company’s prior written consent, does not allow the user to disclose any information that the company has provided to the user, and any non-public message about the service, in order to treat the user as confidential. Article 20 (change of usage clause) allows the company to change the usage clause so that the user is notified of the changes. The company will give the user the time to consider, cancel the contract, and, if within the time specified by the company, the user does not terminate or withdraw from the meeting, it will take into account the user’s agreement to change and comply with the use clause.",
+        "output": "If you leak information or non-public content related to the company’s information or services without the company's prior written consent, you will violate the “confidentiality clause” of article 19.",
+        "TOPIC": "TOYSUB CONTROL CONTACT"
+    },
+    {
+        "question": "If there is a dispute between the user and our company over this service, which court should be the first jurisdiction?",
+        "input": "In the event of a dispute between a user and a client over this service, the company will consult with its users and clients on the principle of good faith, and in the absence of consultation, the user will agree to use the Taiwan North District Court as the first jurisdiction court. Article 23 (Other) is based on a separate definition of the rules that are special to this article.",
+        "output": "According to article 22 of the regulations, the law applicable to this service is Chinese law. If there is a dispute between the user and the company about the service and it cannot be settled by genuine agreement, both sides agree to use the Taiwan District Court as the first jurisdiction.",
+        "TOPIC": "How to deal with the dispute over the TOYSUB service"
+    },
+    {
+        "question": "What's the major difference between the annual subscription program and the monthly subscription program? Which is more cost-effective?",
+        "input": "The monthly subscription program costs NT$ 8,256 per month to change the number of new toys. The number of toys does not change from six to eight, and the transport fee is only $22 per day, a reduction of 31%, and it cannot be solved in the middle. (One taxi is given. A limited number will be delivered.). The monthly booking program cost NT $$ 688 for changing new toys every month, no change from 6 to 8, no change in number of toys, no more than 22 per day and no less than one month.",
+        "output": "The annual subscription fee is NT$ 8,256, which is equivalent to an estimated NT $ 22 per day, with a 31% reduction in price, and an additional taxi (a limited number). However, it is not possible to solve the problem. The monthly subscription cost is NG$ 688 per month, and the same rate is TT$ 22 per month for six to eight toys, suitable for prospective homeowners, subject to a minimum of five months.",
+        "TOPIC": "Introduction to the TOYSUB subscription programme and the monthly subscription programme"
+    },
+    {
+        "question": "Why should educational toys suitable for infants between the ages of 0 and 1 be designed in such a way as to hold, knock, fall, push?",
+        "input": "Toys between the ages of 0 and 1 provide educational toys for children from 0 to 1 years of age, choosing how to learn the most basic form of physical action. The toy is designed to hold, knock, fall, push, chase, etc., so that the reaction of a child to a single course of action can also be kept in mind. An example is a toy. Swinginging: By holding hands, by shaking the child's attention to \"move\" (a toy) is different from emitting a “caracara” to a toddler, not focusing on a “shake with a voice,” but rather on the ability to focus on the baby's period, such as “kicking” and “rolling”, so that it can feel the weight of the toy, or the shape of the object.",
+        "output": "These actions not only help them develop muscle control and touch sensitivity, but also increase their interest in the environment. Toys like bells emphasize hand-cuffing and mobility, so that babies can interact with each other to create a sense and understanding of the shape, weight, and shape of the body.",
+        "TOPIC": "The idea of designing infant education toys between the ages of 0 and 1 years"
+    },
+    {
+        "question": "Why does a baby's suspension toy not recommend the use of electron luminous designs, but choose to use natural wind to make toys float?",
+        "input": "Adornment toy: Toys with strangulation, follow-up of the baby's period, and e-luminous toys on the market are too exciting for the baby. So it is designed to remove electro-luminescence and use the natural wind to float the toy to create a child's visual tracking. It does not create additional burdens for the infant, and it is pleasant to feel the toddlers moving.",
+        "output": "Infant vision systems are still under development, and excessive electron light or sound can cause sensory stimulation and impose a burden on infants. So suspensions change to natural winds to make toys move softly, so as to provide a gentle guide to the baby’s visual follow-up, which can help visual development and sensory experience.",
+        "TOPIC": "Introduction to hanging toys, for 3 to 9 months."
+    },
+    {
+        "question": "Why do you recommend a baby baby or a newborn baby?",
+        "input": "BABY GYM NEST: This allows children to touch toys while they sleep and provides space for quiet activity. Children can also feel the result of physical changes as they move their hands and feet. The aim is to learn how to adapt to physical actions during their activities.",
+        "output": "BABY GYM NEST is a very appropriate static activity for newborns and babies, because it allows the baby to move through the hanging toy with its hands and feet, even in a lying state, which increases sensory stimulation and body interaction.",
+        "TOPIC": "Introduction to the Baby Strength, for 0-6 months."
+    },
+    {
+        "question": "What toy can help ease the mood of a child while reducing the stress of parents' care?",
+        "input": "Musicboxes: Listening to soft music or toys can reduce the pressure on infants. In addition to relaxing and acting on babies, it can also reduce the stress on parents.",
+        "output": "Music boxes or toys with soft music inside are highly recommended choices that help to stabilize the mood of infants and reduce anxiety by playing soft, calm melody, so that children can feel comfortable while they are active, and so that parents can lower the stress of caring.",
+        "TOPIC": "Introduction to music box toys for 0-6 months."
+    },
+    {
+        "question": "Why don't you change your toy for a baby aged 0-1?",
+        "input": "No Toys: When pushed down, it returns to its original position, allowing babies to repeat their studies in their responses, which are the basis for future focus.",
+        "output": "Toys are very attractive to infants. In the process of pushing them down and observing their return, children interact with each other in a repetitive way, which helps to focus attention on raising babies.",
+        "TOPIC": "An introduction to a no-frozen toy for 6-12 months."
+    },
+    {
+        "question": "What kind of toys can promote the imagination and sensory development of babies at the same time?",
+        "input": "Glove dolls: It allows parents to play with gloves dolls and babies. This type of toy is mostly animal-type gloves, which enhances the imagination of babies through a game structure like \"parent-to-toy-baby\" action. Musical drum toys make sounds, simple musical toys. Electronic drums also produce drums that imitate leather.",
+        "output": "Toys and musical drums can be considered. Parents can put gloves on their hands to interact with babies, stimulating their imagination and social interaction through imitation and conversation. Musical drums toys can help babies learn how to change their voices through simple rhythms and sound stimulation, and further develop sensitivity to music and rhythm.",
+        "TOPIC": "An introduction to the glove doll, for 6 to 12 months."
+    },
+    {
+        "question": "What are the safe instruments for a 0-1-year-old baby that inspire music?",
+        "input": "Toys: Let children aged 0-1 distinguish between the colours of the keys, and most of us use wood-made pianos that don’t have to be symphony. Because the bounceback of a piano playing on the keys is more dangerous for babies, it makes babies learn from them first.",
+        "output": "Wood-made wooden toys are the most appropriate choice for enlightening music. Unlike iron keys, they do not have to tune, and they are hard to bounce when hit, reducing safety risks.",
+        "TOPIC": "Introduction to wooden toys for children aged 0-1"
+    },
+    {
+        "question": "What's the speciality of a rope toy suitable for a child over a year and a half, and why is it recommended to a child of this age?",
+        "input": "Pull Toy: The baby has a toy with a rope that lets the car and the animals follow. The baby pulls the toy, like the \"foot\" parts. Babies have a great interest in toy rotation/recycling. First, they “pull the fun” of walking, and then the fun of walking along with their age.",
+        "output": "The rope toy is a toy designed to keep the baby with the rope, and the car, the animal, moves with it and produces a turning effect. It is especially suitable for children over a year and a half, as children of that age start to move in a stable manner and become highly interested in the transformation of the object and the causal relationship.",
+        "TOPIC": "Pull Toy's introduction, for a one-year-old."
+    },
+    {
+        "question": "What kind of pushy toys can be recommended for children between the age of one year?",
+        "input": "Push toy: Contrary to the stringing toy, it is a toy that uses the \"pressive\" action. The hand pressure allows other actions such as rotation/movement of the actionable parts, and the baby is exposed to walking-and-learning toy by his own hand. Toys that interest the baby from the time he crawls to the age of one also have a lot of fun to play with.",
+        "output": "Pushing toys are a good option for infants from crawling to about one year of age. These toys can trigger mechanical reactions such as rotation and movement through hand pressure, not only drawing attention to children, but also promoting muscle development and causal understanding in their hands.",
+        "TOPIC": "Push toy, fit for a baby who crawls to the age of one."
+    },
+    {
+        "question": "What kind of woody toys are suitable for babies between the ages of 0 and 1?",
+        "input": "Soft logs: When a baby is 0-1 years old, it often bites and throws things, and the soft logs are made in a way that is different from the old ones. There are also few hardwoods that take into account the safe material used by children, and children in this phase have not learned to pile up wood, which makes it fun for children to dump piles and drop wood.",
+        "output": "Soft wood is an ideal option. The children at this stage do not yet have the skills to stack the wood, but rather are more common to explore things like biting and throwing. Softwood is made of soft material, which is not only safe, but also allows the baby to enjoy the experience of \"rolling down\" and \"throwing\" and stimulates sensory and physical development.",
+        "TOPIC": "Introduction to soft logs, for 0-1 month-olds."
+    },
+    {
+        "question": "How does TOYSUB ensure that rental toys are clean and safe so that parents can be comfortable with their children?",
+        "input": "Complete clean-up and sanitary management. ToYSUB’s packing and cleaning work is performed by dedicated workers with child-rearing experience, such as children’s gardens and former hairdressers, who are carefully checked before wrapping up to avoid the possibility of causing children to put their mouths in harm’s way. Even if members return home with dirty toys, we will be responsible for cleaning.",
+        "output": "TOYSUB pays great attention to cleaning and hygiene management of toys. All packaging and cleaning is done by staff with child-rearing experience, including those who used to be kindergarten teachers or hairdressers. They examine toys every time they are packed to make sure that there are no defects that could cause injury to children.",
+        "TOPIC": "The cleaning and safety of rental toys."
+    },
+    {
+        "question": "How does TOYSUB ensure that the toys provided match customer quality needs?",
+        "input": "Toys specialists recognize that the TOYSUB initiative has over 1,500 programs and has a special list of educational toys. Knows the most suitable educational toys of all ages, and provides different toy content according to the expectations of customers. According to data, designs for buying toys, ToySUB's toy project is the rigorous selection of highly educative toys based on the return of more than 2,000 clients and their assessment. ToYSUb has used our own client survey data.",
+        "output": "ToYSUB’s planners have more than 1,500 toy plans and are familiar with the most appropriate educational toys of all ages. They make a list of highly educative and age-appropriate toys that can be adapted to the needs of their parents, based on feedback from more than 2,000 customers.",
+        "TOPIC": "How renting toy meets customer quality requirements"
+    },
+    {
+        "question": "What are the types of educational toys suitable for children between the ages of one and two?",
+        "input": "Toys are designed to make it easier for children to understand the results of actions such as stacking, inserting, opening, pitching, swinging, etc., and to learn how to act with fingertips, hands, and feet.",
+        "output": "For infants between the ages of one and two, it is recommended that educational toys be chosen that enable children to change their toys through simple actions. For example, toys that can be stacked, inserted, opened, thrown or waved help children understand the \"acts and results\" relationship, and facilitate the development of hand-and-foot collaborations.",
+        "TOPIC": "An introduction to toys between the ages of 1 and 2."
+    },
+    {
+        "question": "What kind of games can be used to help young children develop spaces of awareness and hand-eye interaction?",
+        "input": "Cube puzzles: Cubes paint different images and synthesize a painting. Using male-female preferences, mostly car cars or flowers, the 3-cube puzzle can easily be shaped into a painting that stimulates children to learn \"combining\" and \"finishing\" their achievement. Toys stacked in various shapes of toys are stacked according to certain rules, with more common toy shapes like circles stacked from size to size. It allows infants to learn to upgrade their senses of stereos. Shapes match cubes of different shapes, paired with holes of the same shape.",
+        "output": "There are three kinds of games that fit the spatial recognition and hand-eye interface for young children: a cube puzzle that combines four cubes with a complete picture that generates interest and achievement through images such as cars or flowers. A stack of toys helps children understand the order of size and regulation and enhances the sense recognition of opposing stereos. Toys provide various shapes of cubes that help train hand-to-eye alignment and shape recognition.",
+        "TOPIC": "Cube puzzle toys."
+    },
+    {
+        "question": "Why is the stacking of toys suitable for the development of early sensory abilities in infants?",
+        "input": "Collapse toys: Toys of various shapes are stacked in accordance with certain rules, and more common toy shapes like circulatory objects are piled in sequence of sizes and sizes.",
+        "output": "The stacking of toys allows babies to be sorted and stacked through different sizes and shapes, helping them develop sensory abilities such as hand-eye protocol, space sense, and touch recognition. Like common circles, they enable children to learn the size order of objects in play and the basic logic of logic, and step up the recognition of development and precision of hands in the brain.",
+        "TOPIC": "An introduction to a stack of toys."
+    },
+    {
+        "question": "My kid's about two years old. Do you have any toy recommendations for his age that would help you get to know him?",
+        "input": "Shapes are paired with toys: cubes of various shapes, paired into homogenous holes. They are typical educational toys that enhance children ' s ability to identify themselves in rectangular shapes such as circles, triangles, squares, stars and hexagons, depending on their age.",
+        "output": "It is highly recommended that children as young as two years of age be given the form of toy matching. These toys have a variety of cubes, such as circles, triangles, squares, etc., that allow them to try to put them in a rectangular hole. Through the game, they are not only able to raise their awareness of basic geometric patterns, but also to train their eyes to adjust and refine their actions.",
+        "TOPIC": "The shape is accompanied by an introduction to toys."
+    },
+    {
+        "question": "Why is \"key locking toy\" suitable for a child between the ages of 1 and 2?",
+        "input": "Key locking toys: Keys are inserted, turns open, and they are educational toys that learn basic actions. For children between the ages of one and two, the keys are not complicated, they can be easily inserted, they are shaped and paired with toys, and you can experience the fun of toys.",
+        "output": "A key locking toy is designed to be simple, easy to operate, and can help children practice basic hand action and coordination. Children simply have to insert and turn the key and open the door, which not only enhances eye-to-eye communication, but also allows them to experience the pleasure of opening and exploring it.",
+        "TOPIC": "The key locking toy will be introduced."
+    },
+    {
+        "question": "What toys can help children to become more imaginative and focused in the game?",
+        "input": "Software huts: small houses made of soft fabrics, accompanied by all kinds of souped dolls and educational toys.",
+        "output": "Soft House is a very recommended toy, made of soft fabric, and equipped with a multi-faceted soft-clothed doll. Children can create stories and roles freely, not only by stimulating a rich imagination, but also by fostering dedicated and social skills.",
+        "TOPIC": "An introduction to a soft-clothed cottage."
+    },
+    {
+        "question": "What toy can help a child train eye-to-eye coordination and concentration, with creative elements at the same time?",
+        "input": "Nail-toys: Design holes in toys to insert parts or nails into a game of educational toys. The shapes of the plugs and the length of the nails vary. Different colours of nails are inserted in different holes, creating graphic images. Toys with concentration and discipline can be learned. Children growing in age have the same type of toys that are more difficult to find.",
+        "output": "It is recommended that a nail toy be used, which allows a child to insert different colours and shapes of nails into a given location through the design of holes and colour nails, not only to enhance hand-eye alignment and concentration, but also to train the logic and discipline of the child. The nails can be arranged in such a way that they are multi-templated, creative and educational.",
+        "TOPIC": "The nail toy is introduced. It suits children between the ages of 1 and 2 with eyes and eyes."
+    },
+    {
+        "question": "What are the recommendations for musical toys suitable for children between the ages of one and two?",
+        "input": "Piano toys: At the age of 0-1 we've played wooden toy and experienced the fun of making a sound. Most of us can provide electronic pianos in the 1-2 age range, accompanied by auto-playing and co-organizing lighting.",
+        "output": "For children between the ages of one and two, the use of electronic piano-type toys is recommended. These toys are usually designed to perform automatically and to interact with light, not only to attract attention, but also to stimulate visual and hearing development.",
+        "TOPIC": "An introduction to piano toys. Suitable for children aged 1-2 to stimulate visual and hearing development."
+    },
+    {
+        "question": "What kind of toys can help young babies raise their finger activity and space perception?",
+        "input": "Waterstone toys: Typical educational toys that combine metal lines and beads. Depending on the age of each difficulty, circle-like iron lines and pearls vary from one manufacturer to another. Infants can play games in middle-school concentration and space acquisition and promotion of fingertips.",
+        "output": "Toys are very educational toys suitable for infants, alloyed metal lines and coloured beads, designed to be different paths and difficulties. By pushing the bead along a curved steel line, children can train their fingers in precision in the game and build spatial concepts and concentration.",
+        "TOPIC": "A slider toy introduction. Perfect ability to practice fingers for children aged 1-2"
+    },
+    {
+        "question": "What kind of toys can help young children improve their imagination and logic?",
+        "input": "Combining track toys: Toys that can walk on a wooden track. Because a wooden trajectory is different from a plastic one, it cannot be hard enough to assemble the wrong thing, it has to be assembled in the right way, so that babies can be trained in changing growth imaginations in various combinations of toys.",
+        "output": "Combining track toys is a very suitable option for raising the imagination and logic of young children. These toys are usually designed using wooden track designs, unlike plastics, and cannot be forced to spell wrong combinations, which must be done in the correct logical order.",
+        "TOPIC": "An introduction to an orbiting toy."
+    },
+    {
+        "question": "What are the food toys suitable for childhood use that combine safety and ingenuity?",
+        "input": "Toys: Combining vegetables, fruits, kitchen knives. Because wood products do not cause injury to small children even when they chew in their mouths, everyday objects are presented in toy form, which can increase children’s imagination. More fun is added to games such as spoons that are often used in everyday life.",
+        "output": "Toys suitable for young children usually include basic combinations of vegetables, fruits and kitchen knives, and recommend products that choose wood-based materials because they are not vulnerable to debris, even when they chew. Moreover, these toys model kitchen supplies that are common in everyday life, helping children to understand life situations in games and improve their imagination and imitation.",
+        "TOPIC": "An introduction to cooking toys. For children between the ages of one and two, socialization and imagination."
+    },
+    {
+        "question": "What kind of toys can help young children to develop patience and concentration and fit for continued use as they grow older?",
+        "input": "Toys on slopes: toys that put the ball and the truck on the ramp track and slide it down automatically. Over and over, games have been repeated to learn long-lasting and focused educational toys. There are also more and more different types of toys, depending on the age of the infant.",
+        "output": "Toys on slopes are educational toys that are well suited to the development of young children’s patience and concentration. Children can put balls or minivans on ramps, observe their way down automatically, learn to wait and observe in duplicate games, and improve their focus.",
+        "TOPIC": "An introduction to the slope toys."
+    },
+    {
+        "question": "What kind of toys can help children develop and focus their hand muscles?",
+        "input": "Toys with hammers: Each card in a lined circle contains a pellet pattern, educational toy with a single hammer, as well as a combination of electronics and musical instruments that enhances the child ' s concentration and finger strength.",
+        "output": "A hammer-type toy is a very suitable option. It is usually designed to have a neat circle of empty holes, with striking balls placed in each hole, and children need to use small hammers to punch the ball into the hole, thereby training their hands to shake their fingers.",
+        "TOPIC": "It's for children between the ages of 1 and 2 to raise their concentration and their fingers."
+    },
+    {
+        "question": "Why is it a good option to choose colorless logs for children between the ages of one and two?",
+        "input": "Simple logs: The usual logs are coloured and colorless. Young children who play uncoloured trees during their 1 to 2 years of age can also imagine in their own minds the colours of various kinds, so it is unnecessary for trees to have different colours. Focusing on wood quality and choosing wood to make trees, contacting toys can also affect the sensory abilities of babies.",
+        "output": "For a child between the ages of one and two, whether the logs are colored or not is not the most important consideration. A child of this age plays colorless logs that fill colours and situations with his imagination, which is beneficial for brain development.",
+        "TOPIC": "An introduction to simple logs. Fits for children aged 1-2 to stimulate child touch and sensory development."
+    },
+    {
+        "question": "Why choose Toysub!",
+        "input": "It is a matter of passing on the idea that the age-appropriate toy for renting children is chosen by Japan, a group of young professionals, to choose for their children the type of toy that meets the needs of children of all ages, and to provide parents with the Toysub hope that it will be done with the idea of sustaining the economy and the environment.",
+        "output": "Toysub! The toy rental service combines the concept of \"the passing of things\" and helps families not only to save their costs, but also to be more environmentally friendly through the cycle of the economy. Toysub! The toys are carefully chosen by a dedicated team of early childhood education specialists in Japan to provide the most suitable toys based on children’s learning and development needs at different ages, allowing children to grow up naturally in safe, resourceful games, and parents at the same time can be more confident and more effective in guiding their learning and exploration.",
+        "TOPIC": "Toysub!"
+    },
+    {
+        "question": "Why should I choose Toysub instead of buying my own baby toys?",
+        "input": "The baby especially needs pre-school toys to stimulate development, and there is a lot of money to buy new toys, and it's often when Mom picks out toys and the baby doesn't pay for them at all, it takes up space at home. The fact that ToYSUB comes along solves this problem. Through toy rental, the baby regularly has new toys to play with, and ToySUB employees have educational experience with children, which is professional and age-appropriate in the selection of toys.",
+        "output": "ToYSUB offers a professional toy rental service that is especially suited to the development needs of pre-school-age babies. Buying toys on its own will not only save money, but also prevent them from wasting space at home. More importantly, ToySUB’s toys are chosen by a team of highly educated professionals to ensure that they meet the developmental and learning needs of each month’s age, so that the baby can reach new, interesting and enlightened toys every month.",
+        "TOPIC": "Toysub!"
+    },
+    {
+        "question": "Why is it that more and more parents choose to use toy rental platforms?",
+        "input": "Toysub is a matter that parents should pay attention to in order to give the next generation a better future. By chance, there are hosts who recommend the idea of \"sharing instead of buying\" for pre-school toys, and introduce Toysub's rental share platform, where children's toys are mostly recommended for intelligence toys, so sweetly attracted by their ideas that let little pudding play toys that, in addition to loving the Earth, help little pudding grow up.",
+        "output": "As environmental awareness rises, many parents begin to value the idea of \"sharing as an alternative to buying.\" Toysub-like rental platforms not only reduce excessive consumption and waste of resources, but also allow children to have regular contact with different types of intellectual toys and promote diversity.",
+        "TOPIC": "Toysub! There are many advantages to the concept of shared services."
+    },
+    {
+        "question": "What are the ways to avoid excessive purchases of toys at the child's request without disappointing the child?",
+        "input": "When little pudding was born, wondering if she wanted it or not, the kid said, \"Well, Mom bought it for you,\" and even the children's toy that came out of the Internet unwittingly recommended ads, which led to more toys in the family than to their mother's house if they felt fit.",
+        "output": "To avoid excessive purchases of toys, the key is to establish clear rules and practices. You can try to use a \"list of wishes\" system, record it when children see what they want, limit selection to one or two each month, and develop the ability to wait and choose.",
+        "TOPIC": "To get a balance between excessive purchases of toys and children's expectations"
+    },
+    {
+        "question": "Our children are particularly interested in car-type toys, and other types of toys are often out of play. Is this suitable for the TOYSUB! rental service?",
+        "input": "In fact, there are not many times to go back to their homes, and the toying there is a waste, and in a short time it may not be fit for little pudding’s age, and perhaps we have a better choice, such as ToYSUB’s offer of renting high-quality toys for children of all ages, which easily solves the problem of more toys or children already playing. ( Read the full text.) A 1-year-old boy: Hokkaido happens to see TOYSUb’s services on the Internet, the more children buy them, the less they can afford them, so that he can decide to join the board.",
+        "output": "Toys toy specialists will build toy projects according to their children’s interests and parents’ expectations. For example, our children especially like cars and tram toys, so experts provide the right combination of toys. Even better, the past toy piles have caused problems with collection, and the use of ToySub! is needed to keep the toys that we need so that our rental space can be made more comfortable and clean.",
+        "TOPIC": "Toysub's toy-making program."
+    },
+    {
+        "question": "Why choose Toysub to pick toys for the kids?",
+        "input": "Toysub's toy specialist listened to our expectations and then developed a toy plan for our children, which really helped us. Our biggest problem in renting a house was the constant increase in toys and the shortage of spaces, the best being the TOYSUB service, which allowed families to keep only the necessary toys and made our lives more comfortable.",
+        "output": "ToYSUB has an expert who listens to the needs of customers and makes toy projects for customers. Through ToySUB’s rental services, families can leave only children’s toys, not only to save space, but also to make their living conditions more comfortable, and to keep clean and safe.",
+        "TOPIC": "TOYSUB builds toys for clients."
+    },
+    {
+        "question": "My kid's 1 years old, and I'm worried he won't spend any money on a toy.",
+        "input": "We've begun to expect what kind of toys we'll send next time, considering the cleanliness after use. A 1-year-old girl who wants to buy a toy for her daughter's age, but doesn't know which one of those toys is suitable for her, and the price of educational toys is high. If you don't want to play or just hang around, it makes it harder to buy them so we can start to use TOYSUB.",
+        "output": "ToYSUB is designed for a family like yours, and we know that a one-year-old child is growing rapidly and interested in changing so that the appropriate educational toy can be sent every month according to age and stage of development, so that children can explore it. At the same time, when the toys are used, they need to be simple and clean, they can be returned or replaced, without fearing that the children will not play to waste.",
+        "TOPIC": "TOYSUB Lease Service makes toys for clients."
+    },
+    {
+        "question": "Why is it recommended to use the TOYSUB toy subscription service?",
+        "input": "Toysub will listen to our ideas and opinions, then choose to send them, and every time we change, we will look at our backs and adjust the toys provided by the children in a timely fashion. The use of TOYSUB is not just a way to provide toys, but a way for us to spend time with our daughters. So here we recommend TOYSUB!",
+        "output": "It is not just a toy, it's more like a planned form of child support. Through carefully chosen toys that match the child's growing needs, parents spend quality parenting with their daughters. Most particularly, the TOYSUB team will adjust and deliver content on a continuous basis according to the customers' preferences, making each toll look like a surprise for us.",
+        "TOPIC": "TOYSUB builds toys for clients."
+    },
+    {
+        "question": "Why is Toysub's child-friendly toy rental service especially recommended by parents?",
+        "input": "It is a matter of passing on the idea that the age-appropriate toy for renting children is chosen by Japan, a group of young professionals, to choose for their children the type of toy that meets the needs of children of all ages, and to provide parents with the Toysub hope that it will be done with the idea of sustaining the economy and the environment.",
+        "output": "Toysub's child-friendly toy rental service is especially recommended by parents because it combines the concept of \"carriage and inheritance\" so that toys can be reused, waste reduced, and environment preserved. At the same time, these toys are carefully chosen by Japanese baby specialists to match the development needs of children at different ages, ensuring that children can learn and grow through age-appropriate games.",
+        "TOPIC": "The advantages of the TOYSUB rental service"
+    },
+    {
+        "question": "TOYSUB! What media and professional institutions have been positive about this? Is it worth having parents choose this service?",
+        "input": "The economic news \"SANKEIBITS\" page with TBS \"SUNDAYJAPON\" reporting on the economy \"DiamondOnline\" with TOYSUB dating back to 2019 by TV \"GEDMORNING\" started offering services in Taiwan for the 2018 KIDDESIGN.",
+        "output": "ToYSUB’s performance has been widely acknowledged, reported and praised from the media to professional institutions. TBS’s “SUNDAY JAPON” and TV’s ‘GOOD MORNING’ have all reported on its economic growth and educational philosophy; specialized economic media such as ‘SANKEIBIZ’ and ‘Diamond Online’ are also taking an in-depth look at its innovative model. ToYSUB! is more honoured by the 2018 ‘KID DESIGN’ award, which represents a highly valued product design and child-friendly concept.",
+        "TOPIC": "ToYSUB's media and professional institutions are positive."
+    },
+    {
+        "question": "What kind of toys are suitable for the five senses and fine moves of a slow development, and at the same time facilitate parent-child interaction?",
+        "input": "{\\cHFFFFFF}{\\cH00FFFF} There are more resources to accompany him in a way that they do not understand and understand. {\\cHFFE7C5} Toys are children's enlightened teachers who play with joy. For children, playing is a catalyst for all learning, but to have a better five senses of development and fine action is to make toys a teaching tool. And companionship can really give a slow-up.",
+        "output": "In the case of slow-development children, it is particularly important to choose toys that stimulate five senses and push hand action. For example, sensory balls with different touch elements, small muscle training toys that need to be rotated or plugged in, or interactive logs that combine sound and light effects, not only generate interest, but also help them develop a sense of unity and movement control in the game. Moreover, it's more important for parents to play and encourage together so that their children feel safe and supportive at a level that they still understand and do not understand.",
+        "TOPIC": "Toys suitable for slow development with five senses and fine moves."
+    },
+    {
+        "question": "How can I support Toysub?",
+        "input": "Toysub! It also provides a 10-per-cent response plan for every subscriber in September-December. It also makes a long-term donation of second-hand toys as teaching aids that allow the old to function again, without waste of resources.",
+        "output": "As long as you subscribe to Toysub's toy rental service, you are already doing good in silence. We will raise 10% of every subscriber's subscription in September-December to support the Children's Development Project of the Sky Angel Foundation as a love donation. In addition, we will donate second-hand toys for use as teaching aids, prolonging the value of toys and reducing the cost of resources. A small move by you is making a big difference in people's lives!",
+        "TOPIC": "TOYSUB’s Public Interest Partnership with the Foundation"
+    },
+    {
+        "question": "Toysub was founded on what idea or opportunity?",
+        "input": "ToRANA’s representative’s idea of ToYSUB is me: Shida, head of TORANA. Use this page to explain why ToYSUB was created: ToySUB and I started at the point where we helped raise children. There were three examples of family raising problems in Japanese society. Of course, there are different problems for everyone, and the following is a subject that I think is particularly sensitive to.",
+        "output": "ToYSUB was created to help families to raise their children more easily. In Japanese society, many families face challenges in the process of raising their children, such as too much child pressure, difficulties in choosing toys, and a lack of growing resources that can stimulate the potential of their children.",
+        "TOPIC": "TOYSUB'S EQUIPMENT"
+    },
+    {
+        "question": "What are the ways in which parents can be more consciously involved in child-rearing and reduce the phenomenon of external child-bearing?",
+        "input": "In cases of physical and mental underpreparedness, mothers have to work for both parents after the birth of a child, and they have been in foster care for a limited period of time, but when they come home, they are tired of watching TV and playing cell phones. What makes it possible to externalize their children? I think it is suddenly a parent, but I don’t know what to do when a parent is.",
+        "output": "Family education is widely available and prepared: before pregnancy or childbirth, to learn that raising is not only biological care, but also involves emotional communication and transmission of values. Small interactions in everyday life: even when you are busy, you can arrange 10- to 15 minutes of \"parental time\" per day, without being too long, if you turn off the screen, and if you tell stories, draw or ask about the children's feelings today, you will be able to build links.",
+        "TOPIC": "The way parents engage in child-rearing."
+    },
+    {
+        "question": "In modern families, why are parents advised to interact with their children through toys or games?",
+        "input": "In old times, parents could learn how to raise their parents, and now social patterns tend to favour the nuclear family, suddenly becoming parents with no parenting education, leading to a lack of knowledge of how to educate their children. Cultural and economic relationships are becoming more difficult for parents living in urban areas, especially when it is difficult for them to educate children.",
+        "output": "At this time, toys and games become an important vehicle for parent-child interaction. From simple games of hide-and-seek, guessing, finger-to-finger games to creative games such as home-basket games, not only can parents learn about parenting, especially urban parents, face the stress of life and work, reduce the amount of time they spend with their children, but also challenge parenting. ToYSUB is based on this idea, providing age-specific toy rental programs that allow families to easily have high-quality children.",
+        "TOPIC": "It's recommended that parents interact with children through toys or games."
+    },
+    {
+        "question": "What are the recommendations for an electronic toy that a one-year-old can operate on his or her own? What is the added value of parental involvement?",
+        "input": "ToYSUB offers all kinds of toys, e-toys, wood to make and make. It also contains electronic toys where children can play by themselves, but it has no meaning without parents, such as doll gloves, which can interact with children. And it is impossible to do so without parents who can help their children at their age. The highest level of client satisfaction is electronic toys that children can do by themselves.",
+        "output": "ToYSUB found, on the basis of extensive use of data, that electronic toys were most commonly sent around the age of one, showing the importance of parents’ need for self-movement. But if accompanied by parental guidance and involvement, even the more difficult ones, it could be transformed into a good opportunity to learn and interact. It is suggested that toys that operate independently and encourage interaction can be chosen so that children can grow up in autonomy and company.",
+        "TOPIC": "Toysub's toys. I want my parents to interact."
+    },
+    {
+        "question": "Why, Toysub!",
+        "input": "ToYSUB expects to have a happy parenthood with his or her children at a young age when they are most in need of relationships. We hope that parents can offer toys with their children. Children who lose balance by turning digitally are less exposed to such toys today, and toy-making toys of all kinds are nostalgic, but they are the original point of educational toys, and electronic toys are derived from the same concept.",
+        "output": "ToYSUB! Convinced that early childhood is the most crucial golden time for parent-child interaction, we encourage parents and children to create happy times, and believe that toys should be a bridge to foster parent-to-child relationships. Today, children are exposed to a lot of digital content, reducing opportunities for hands-on and real interaction. Our chosen wood-based educational toys are not just old-fashioned, but also educational prototypes for many electronic toys.",
+        "TOPIC": "It's a woody toy speciality. It'll suit the interaction of your parents."
+    },
+    {
+        "question": "What educational toys are suitable to play with and contribute to the development of children?",
+        "input": "Toys of education, though not so glamorous as to match the child's growth in colour and shape, and to stimulate the child to realize his or her physical and learning abilities, should also be said by adults, because it is very simple for adults to say, \"What's wrong with that?\" I think when raising a child, too, I think that traditional toys and educational toys are the best gift to parents in their time. More selective, information management is more and more convenient, and electronic commerce is growing to the extent that everything is bought.",
+        "output": "Educational toys may not look like hot toys, but they are colored, shaped and designed to match the child’s stage of growth and effectively stimulate children’s sensory development and learning abilities. For example, matching wood, wearing rope toys, feeling boards, etc., not only enable children to discover their physical abilities in the game, but also make it easier for adults to engage in interaction and observe the growth of their children.",
+        "TOPIC": "Toys for your parents."
+    },
+    {
+        "question": "How am I going to choose what kind of learning or teaching materials really fit the child, in the face of pressure and marketing of educational products such as \"child education starts now or it's too late.\"",
+        "input": "For parents, “children’s education is either too late from now on” and “if kindergarten can’t learn that, it’s hard to test” and so on, there are all kinds of forced consumption in the market, and it is disturbing how this amount of information should be chosen, and most people accept “seen from credible intelligence” or what they hear from friends, seniors, other parents, etc.",
+        "output": "It is suggested that, in choosing learning methods or materials, priority should be given to information from trusted sources, such as teacher advice from a professional background in education, actual use of the assessment of parents, or sharing of friends with older generations. It may also be possible to look at children’s interests and developments first, and to select content that is compatible with their growing motivation for curiosity and learning.",
+        "TOPIC": "Selection of learning methods or teaching materials suitable for the child"
+    },
+    {
+        "question": "Why does TOYSUB particularly emphasize the concept of \"sharing recycled\" toy?",
+        "input": "In recent years, however, there have been many child-care problems caused by poor communication between parents, due to the weakening of relationships between generations and reliance on the Internet for data collection, but in these times it is more appropriate for parents to increase people-to-people communication and learn from the exchange of information when communication takes place. What are the elements of \"sharing\" that we would like to add?",
+        "output": "ToYSUB highlights the concept of \"sharing recycles\" in order to address the double challenge of modern families in child-rearing communication and resource allocation. We want to build trust and connections through a rigorous system of quality education toys and sharing that allows parents to share experiences, exchange stories behind toys and use them.",
+        "TOPIC": "TOYSUB shares recycled toy ideas"
+    },
+    {
+        "question": "Why do you choose to operate in a shared leasehold mode instead of selling toys directly?",
+        "input": "“Sharing” is quite risky for the business model, because it has to include the cost of sending back, and other costs such as cleaning up and other customers. But, in the current climate of warming, business responsibility has been thinking about new business models that can be used at the same time and sustainably under the general business model. Toy waste, about 6,000 tons a year! Deep parent education! 6,000 tons.",
+        "output": "We have chosen as a core business model, with high delivery and cleaning costs in the business sector and facing challenges such as return of goods and customer management, but there is a deeper business mission and responsibility behind it. Through the rent-sharing model, we are working to promote the reuse of resources and reduce cost, while also hoping to embed the concept of \"sustainability\" in the education of each family’s relatives.",
+        "TOPIC": "Introduction to TOYSUB Sharing Rents"
+    },
+    {
+        "question": "How should we raise children from an early age with the correct idea of sharing goods and resources in order to reduce waste generation?",
+        "input": "As one of the world's leading national waste disposals, TOPCLASS is not a good reality, Japan has a habit of using new things, and something that it does not use is simply abandoned. Second-hand goods, flea markets, C2C personal purchases may be improved, but if we continue to teach children about their abandonment habits, Japan will always have the name of the country with the highest levels of waste emissions, European American and Asian countries will not have a strong sense of exclusion from second-hand products, or share the economy as a threat to manufacturing, but I will look forward to culture without designing an effective system of recycling and use, without the economic activity of the product system, without which the child will be able to escape from the process of manufacturing and making it work \"this toy will be used by other friends.\"",
+        "output": "The idea of raising a child from an early age to share goods and use them around the world is about practical behaviour and values that guide life. Parents and educators can do so in a number of ways: building an article story: \"This toy was formerly owned by a friend and is now used by you,\" which allows children to feel transmission and connection, not just ownership and abandonment. Participation in a hands-on exchange: allowing children to physically experience flea markets, C2C platforms, etc., and knowing that things have the potential of a second life.",
+        "TOPIC": "The idea of goods sharing and resource recycling is something that TOYSUB wants to convey."
+    },
+    {
+        "question": "TOYSUB! How does the concept of environmental protection work while raising children and bring about a positive social impact?",
+        "input": "In Japan, where recycling rates are the world’s top, more common economy, less waste disposal, more parenting time for parents and children, and more social models for children in the future than we thought, the great goal of ToYSUB is to provide something to do with the Earth’s environment. More attention will be given to teaching Shida.",
+        "output": "ToYSUB! Working to create a toy rental platform for \"parent-to-child sharing\" and \"sustainable environment\" . By using them effectively, not only reduces the amount of waste and waste generated, but also allows children to grow in a safe, interesting and educational environment.",
+        "TOPIC": "TOYSUB implements the concept of environmental protection and brings about a positive impact on society."
+    },
+    {
+        "question": "What educational toys are suitable for children between 2 and 4 years of age to help them develop their ability to think and remember?",
+        "input": "Toys, two to four-year-olds, focus on the first thinking skills of young children, and subsequent behavior and results-oriented educational toys. Toy selection encourages young children to think about various combinations, memories, activities, and rules. The toy is driven by the results of reflection and designed on the basis of the basic theory of reversal and memory learning. This will be very helpful for post-day entry or study.",
+        "output": "For children between 2 and 4 years of age, the design of educational toys focuses on initial thinking, memory development, and learning and hands-on from the results. The recommended games are: match-and-categorization games, memory card games, composite logs, interactive storybooks or educational panels, all based on the theory of childhood memory and behavior.",
+        "TOPIC": "Toys for children between the ages of two and four to develop the ability to think and remember."
+    },
+    {
+        "question": "What are the toys that can help children develop foundational arithmetic and numerical recognition in the game?",
+        "input": "Toys: Educational toys dominated by \"calculating numbers \" , the calculator of different colours, or 50 pieces, each five of each, of each 10 cylinders, and small round objects, which can be placed separately in the form of stubble objects divided by colours. Arithmetic capabilities and numerical durability to calculate 0-10. Magnetic toy combinations synthesize educational toys of various shapes using magnets.",
+        "output": "It is recommended to use educational toys with the theme of \"calculating numbers\" such as colour-segregated arithmeticals or small round combinations. These toys usually consist of 50 discs, each five of which can be assembled in one set of 10 cylinders, and children can insert the discs by color into the mutant, reducing the concept of 0-10 by type, match and stacking.",
+        "TOPIC": "Arrange an introduction to toys for children over four years of age."
+    },
+    {
+        "question": "What are the benefits of magnets and toy combinations, and why are they suitable for children?",
+        "input": "Magnetic toy combinations: Educational toys that use magnet shapes to synthesize objects of various shapes. Magnetism has an incredible sense of attraction, which combines all kinds of imagination and a sense of space. Toys have two Ds and three Ds.",
+        "output": "Magnetic toy combinations are powerfully attractive and mysterious, stimulating children’s curiosity and desire to explore. Through a combination of 2D and 3D shapes, children can not only create creativity and imagination, but also communicate their sense of space and their eyes in the process.",
+        "TOPIC": "Magnetic toy presentation for children over 4 years of age to stimulate curiosity and exploration"
+    },
+    {
+        "question": "Are there any educational toys that are suitable to help children remember the country's pens and spelling structures?",
+        "input": "Textbook: The main lesson is to practice the educational toy that remembers the handwriting.",
+        "output": "Educational toys based on magnetic text are highly recommended. These toys are usually equipped with wooden grid boards and various types of medium-text magnets, so that children can freely spell words, not only practice pen sequences and structures, but also increase memory depth through manual exercises.",
+        "TOPIC": "Introduction to text-learning toys for children over 4 years of age to increase memory depth"
+    },
+    {
+        "question": "What toys can help children understand the relationship between number size and weight in a game?",
+        "input": "Digital learning: An educative toy that learns numbers and understands the concept of number size, balances a single object when it is combined with a number size-weight ratio. Five-and-three-by-eight digital graphs are balanced on the average table, and five-and-9s turn to nine.",
+        "output": "Digital balancing toys typically contain different numbers of graphics and a platform where children can see which sides are tilted through the placement of numerical graphics to understand the weight of the number size. Such interaction not only deepens children’s understanding of the size of numbers, but also fosters their logic and mathematical thinking.",
+        "TOPIC": "Digital Balance Toy Introduction, for children over 4 years of age, to develop math thinking"
+    },
+    {
+        "question": "Are there any educational toys suitable for children to learn Latin alphabets?",
+        "input": "Latin alphabet: Latin alphabetic educational toys. Mostly puzzles and word cards, words and graphics learn memories more easily than single A, B, and C letters.",
+        "output": "Toys or word cards with graphics are recommended, like a word and a picture of each card, such as \"A\" for Apple images, \"B\" for Ball. This combination of images and words is a way of learning that makes it easier for children to build memories and stimulate learning interest than if they read A, B, and C alone, and is a very effective educational toy option.",
+        "TOPIC": "An introduction to Latin alphabet learning toys for children over 4 years of age to stimulate learning interest"
+    },
+    {
+        "question": "What are the toys that can help babies raise their memory and train their ability to distinguish different images?",
+        "input": "Memories toys: There is a reduction in learning in Japanese, and there are different images of drawings, such as food, transportation, and other types of objects.",
+        "output": "The option of drawings or matching cards with multi-temporal images, such as toys containing food, transportation, animals, etc., helps children to improve their memory and image recognition in reverse observation and recognition.",
+        "TOPIC": "Introduction to memory toys for children over 4 years of age to enhance visual literacy"
+    },
+    {
+        "question": "Why do you suggest that kids play squares and make up toys?",
+        "input": "Block summation toy: An educational toy in the shape of a built wood. This is very useful for learning and testing after day. By looking at pictures, colours, and finishing them up, it nurtures the ability to actually present things.",
+        "output": "A toy of squares is a very child-friendly educational toy that enhances children’s sense of space and rational thinking. By observing images and colours, children are directed to synthesizing blocks into specified shapes that not only help with hand-eye coordination and focused nurturing, but also enable children to build up the ability to physically make abstract images.",
+        "TOPIC": "An introduction to a toy set of squares for children over 4 years of age to stimulate rational thinking"
+    },
+    {
+        "question": "Why does balancing play have the basic added-up concept that helps children learn?",
+        "input": "Balance toy: Inserts a block of objects on the right and left, moving educational toys up and down for balancing relationships. Learns the basic arithmetic base of A+B>C. The same is very helpful for post-Day learning and testing.",
+        "output": "Toys of balance, through the insertion of pieces of matter from the left to the left, allow children to observe and adjust the location of the object in order to achieve a balance, is actually a process of adding logic to reasoning training.",
+        "TOPIC": "A balanced toy that fits the logic of child-rearing over four years of age."
+    },
+    {
+        "question": "What kind of toy rental services are suitable for pre-school children to reduce the economic and purchasing pressures of parents?",
+        "input": "Bloggers recommend that Toysub-Toys Taxis have a regular quota of more than 900 different types of toy. 2021/05/17 recently came into contact with TOYSUB, which is the concept of \"toy rental.\" If kids need to be recommended, intelligence toys should be recommended. The baby especially needs pre-school toys to stimulate development. There are lots of money to buy new toys, and often moms choose toys and babies don't buy them at all, they just pile up in their homes. ToySUB’s presence solves the problem.",
+        "output": "Toysub would be a very interesting option. They provide more than 900 different kinds of intellectual and child toys, use regular quotas for renting, not only to adapt to the baby’s development, but also to save their homes from all sorts of idle toys. For many parents, Toysub not only helps save costs, but provides more aggressive parenting.",
+        "TOPIC": "Toy rental service for pre-school children."
+    },
+    {
+        "question": "What kind of educational toys are recommended for children between the ages of 0 and 1 on the basis of their monthly age? How should we choose?",
+        "input": "One-to-one toy options for educational toys are recommended for 2017/07/24, with all kinds of games to play for children under one year of age. We introduce games for young children according to the monthly age. There are many toy types of toys at every age. The actions that children can do in 1 ton, 1 to 10 months of age are quite different. Here, from the point of view of the infant toy specialist, there are 0 to a toy option: babies who are born in their infancy are called nursing periods, and babies do more simple hand-and-hand moves.",
+        "output": "For infants between 0 and 1 years of age, the choice of toys is based on the age of the month, because even at the same age of 0, the stage of infant development varies. For example, newborns are breast-fed, mainly by vision, hearing, and hands and feet, and are advised to choose colourful, audio-sounding or non-touching toys, such as bells, books, or black-and-white cards.",
+        "TOPIC": "Toys for children aged 0 to 1 years are recommended according to the age of the moon."
+    },
+    {
+        "question": "What do you recommend for a baby from 0 to 6 months old?",
+        "input": "Toys can also be given to babies, but the best toy at this time is the mother and the father. A little voice from the parents, a smile from the baby, and so on, can fill the baby’s face. But toys special for breast-feeding are also very diverse. Toyings, handshakes, etc., provide children with physical contact, and try these toys can be of considerable help to infants.",
+        "output": "For babies from 0 to 6 months, the best \"toy\" is actually the parents themselves. Parents interact with babies, for example, by making noises, smiling or making faces, and triggering emotional reactions to babies, promoting parenthood and sensory development. At the same time, there are toys designed specifically for breast milk that help stimulate senses, such as hanging toys, holding toys (e.g. dolls, bells) etc.",
+        "TOPIC": "The most interesting thing about a baby for 0-6 months."
+    },
+    {
+        "question": "Why are nursing babies suitable for toy-subs like that?",
+        "input": "Colours, shapes, sounds, touch, etc. give children direct contact with a lot of things, which can enrich their senses. Moreover, the period of breast-feeding is shorter and toy games less long. It is appropriate to use ToYSUB toy rental services.",
+        "output": "ToYSUB! A regular change in toy adapted to the age and age of the baby, allowing the baby to get age-appropriate stimuli in natural events such as sighting, handshake, swinging, etc., and making it easier for parents to offer rich and practical game choices.",
+        "TOPIC": "TOYSUB!"
+    },
+    {
+        "question": "What kind of toys does a baby fit during his or her nursing period? Is there a difference in choosing wood or plastic?",
+        "input": "The wind bells are designed to make toys move by natural wind, the hand-shaking bell is a handshake, and other easy-to-hand toys are the best fit for babies. Many parents wonder whether woody toys are more suitable for use, whereas wood or plastics are not so different. Wood toyes are more qualitative and heavy in their hands, and there is no real difference for milk. Which is good for babies to play with. Also, music boxes are most helpful for children to get into sleep quickly, and some music boxes with dolls are more intimate for infants.",
+        "output": "During breast-feeding, suitable toys are of the type that can be handled with simple handshakes, such as windbells, which are reliable natural winds, or hand-kicking bells that require handshake. As for material, there is no apparent difference between wood and plastic production, but for infants.",
+        "TOPIC": "Toys suitable for the baby's nursing period."
+    },
+    {
+        "question": "What kind of toys are best suited to facilitate the development of their senses and movements at a stage when babies start to turn over and sit properly?",
+        "input": "In order to keep the neck straight, the baby will be more active than in the past, and the baby’s world will become wider. Anything interested will want to touch the instinct of a child’s childhood. It will help when children play with sound or colored toys. Toys that make voices can be fun for babies. Not only do parents and babies use toys easily, but babies will feel happy to return to them.",
+        "output": "The idea is to choose a toy with a voice or color that will help attract their attention and stimulate hearing and visual development. Toys like hand-held bells, bell rings can make babies sound through grips and shakes, and stimulate interest and happiness.",
+        "TOPIC": "The baby's specials and recommended toys."
+    },
+    {
+        "question": "What kind of toy is suitable for a baby who turns over to sit-down?",
+        "input": "When a baby sleeps and turns over, its hands touch all kinds of things or places naturally, and it is helpful to use a toy that can play with its fingers. At times when safety is paramount in turning and sitting at the right time, the choice of fabrics and rubbers that are not vulnerable to damage is the primary choice. The response period comes to the baby’s response, starting with the movement of fingers, finger squeezes, finger grips, and so on. At this point, the child’s actions are more extensive than ever and is interested in everything around him.",
+        "output": "Toys made of fabric or soft rubber are recommended, such as clothing, rocking bells, chewable fingers, etc., which are soft and unbreakable and reduce the risks associated with collisions.",
+        "TOPIC": "It's a toy for a baby who's going to be in the right place."
+    },
+    {
+        "question": "What kind of toys can make babies move towards senses and action?",
+        "input": "Kids are also happy with their own actions, and the toy is a pile of wood. Parents pile up the pile and then smile happily by allowing the child to tear it down with their hands. Children are not bored with the same repeated action, so build wood. There is a very high representation in educational toys. When it comes to playing with babies, it serves as a safe place to separate and protect children from fun.",
+        "output": "Wood is a very educational toy for babies, which allows them to enjoy and build a sense of achievement in the relapsing piles and pushes. Children will be happy and satisfied when they see the results of their actions when they push down the towers. This causal relationship is important for their recognition and physical development.",
+        "TOPIC": "Toys for Sensitization and Action Development"
+    },
+    {
+        "question": "My baby's growing teeth, chewing toys in his mouth. Is it safe for Toysub's toy?",
+        "input": "ToYSUB regularly sends toys. We provide world-renowned brands such as Fisher-Price, Haba, BorneLund, etc. The business model is in the form of leasing, and the toys sent are recycled. But if we have a favorite toy program, we also offer to buy them, and we ask you again.",
+        "output": "Yes, ToYSUB provides toys that are first and foremost considered for the safety of the baby, and all rented toys are strictly cleansed and disinfected after recycling.",
+        "TOPIC": "Toysub's clean and safe baby toys."
+    },
+    {
+        "question": "Why, Toysub, would you choose to introduce educational toys from America?",
+        "input": "Toys introduce 2017/11/25 to educational toys from the US, introducing TOYSUB to American educational toys, and here to introduce these toys from the United States. There are also a number of toy manufacturers in Europe, leading to routes such as Europe and Japan, which are the best logistics for cost and transport security, so that they are introduced from America.",
+        "output": "ToYSUB! The choice to introduce educational toys from the United States is because they are well criticised in terms of education and quality, and can effectively enhance children’s learning interests and abilities.",
+        "TOPIC": "Toysub's reason for introducing educational toys from America."
+    },
+    {
+        "question": "Why is VTech Drop & Go Dump Tuck recommended as an educational toy suitable for a child aged two to six months?",
+        "input": "This is the most appropriate educational toy for a one-year-old, 2-6 months-old child. Educational toy is primarily about \"what kind of action can be taken in years and months\": \"what color, material, modus operandi, etc. should be used to guide an action?\" Unfortunately, there are few toys in the world that have been designed after this concept.",
+        "output": "VTech Drop & Go Dump Tuck is a highly respected educational toy, especially suitable for a long-term child aged 1 year, 2 months to 6 months. The design of this toy combines basic actions such as taking out, \"letting in\" and \"colour recognition\" and effectively guides young children to develop hand-eye coordination and basic recognition through games.",
+        "TOPIC": "Educational toys suitable for a child aged between two and six months"
+    },
+    {
+        "question": "What toys allow children to learn math and everyday knowledge in games and to enjoy fun at the same time?",
+        "input": "Toys that can make children happy and accompany the basic knowledge we need in our everyday lives. How do we spend our childhood playing? I think role-playing, games, etc. are mainstream toys. Our idea – toys – is to provide a lot of interesting childhood time. It is best to have some learning elements in it.",
+        "output": "We recommend educational toys that combine the functions of numeric calculations, shape matching and role-playing. These toys not only help children learn basic mathematical logic, form recognition and hand-to-eye skills, but also make them learn naturally in stress-free games.",
+        "TOPIC": "Toys that stimulate children's calculations and everyday knowledge and feel fun."
+    },
+    {
+        "question": "My kid's about a year and a half old. Is there any way to start playing hand-to-hand games?",
+        "input": "The toys that are presented below are BRIO stacked toys. ToYSUB members must have the feeling of \"a-and-that\". So they are loved by a lot of members. BRIO is popular, not very good, but not bad. It is simply an educational toy that everyone can accept. It's also very acceptable for wooden toys.",
+        "output": "A wooden pile of toys like BRIO is highly recommended. It is popular among members of TOYSUB and belongs to a generally accepted type of educational toy. It not only has a good sense of safety and quality, but it also helps children train their hands to work together and build judgement.",
+        "TOPIC": "Toys suitable for hand-to-eye training."
+    },
+    {
+        "question": "Is it normal that my one-year-old and two-month-old children have recently been able to pile up wood according to shapes?",
+        "input": "If a child aged 1 year and 2 months can be stacked in shape, it may be a genius. Toysub will provide educational toys that match his or her age and appetite, and send them to members according to their needs. Please give us the children’s preferences and parents’ ideas, so that we can learn more about them.",
+        "output": "Your child's ability to collide according to the shape of a year and two months old represents a remarkable development in hand-eye coordination and spatial recognition, which is very encouraging indeed!",
+        "TOPIC": "The symbol of the ability to stack the logs"
+    },
+    {
+        "question": "Why is he thought to be one of the most suitable educational toys for his children?",
+        "input": "Toys refer to the most suitable educational toys, logs! 2017/07/24, the most appropriate educational toy - logs - can create different ways of playing as children develop and are often used in schools or in your home. The advantages of the logs are described here as many variations in colour, shape, etc. The following is a simple illustration of the good logs as necessary educational toys for children.",
+        "output": "The logs are widely regarded as one of the best educational toys because they are simple and highly plastic in order to create many kinds of games with children’s age and stage of development. In schools and families, the logs can be effective in promoting creativity, logic, and hand-eye coordination.",
+        "TOPIC": "The specials of the woodware."
+    },
+    {
+        "question": "Why is a log suitable to accompany a child for long periods of time?",
+        "input": "Weightful logs can stimulate the development of a child’s fingers, training in fingers and fingertips, and remember how it feels to hold things. They are also uniquely attractive in terms of temperature, wood-flowering, and so on. They stimulate curiosity, imagination, five senses, progress, and thinking. And they have long-term, non-damageable advantages, and they can be repaired even if they are damaged.",
+        "output": "The wood not only trains the child’s finger activity and touch development, but also helps the child to remember what it feels like to hold hands through proper weight and touch. Especially the wood, which has a warm quality and natural texture, not only enhances the sensational stimuli, but more stimulates the child's curiosity and imagination.",
+        "TOPIC": "The specials of the woodware."
+    },
+    {
+        "question": "I'm going to help a kid between the ages of one and three choose a log. What kind of advice or game?",
+        "input": "I don't know.",
+        "output": "For a child between the ages of one and three, a build-up can be adjusted according to age and development. Infants around the age of one suggest a simple, large white log, which can be fund by touching, licking, pushing, throwing, and so on, and which promotes sensory development.",
+        "TOPIC": "A woody toy for children between the ages of one and three."
+    },
+    {
+        "question": "What kind of log-playing is appropriate for children of different ages to promote development?",
+        "input": "At the age of one year, the wood is often used to play with heights, eyes, brain imaginations and physical creations, and many children are given names for their work. After two years, the time of playing with the logs will also grow. It will build up imagined items, real-life items, family wine, and so on.",
+        "output": "Most of the 1-year-olds are predominantly high, observant, imaginative, and simple stacking, which nurtures their creativity. By the age of two, they can play more intensely with wood and start building houses, cars, and understanding and social interaction. When they are three years old, they start making a stack of names and geometry, which leads to logic and space. By age four, they will try to combine and creatively and use higher levels of imagination.",
+        "TOPIC": "Different kinds of wood play can be a catalyst for children of different ages."
+    },
+    {
+        "question": "Toysub! In 2019, a service was launched in Taiwan, and the collaboration with Belémé Ltd. brought about concrete improvements to the toy market.",
+        "input": "ToYSUB 2019! Started with Taiwan service 2018/11/20 in cooperation with Bellamis Ltd. and Taiwan service 2019 in collaboration with ToySUB. This collaboration will solve the problem of childhood toys in Taiwan.",
+        "output": "ToYSUB! Since the beginning of its service in Taiwan in 2019, it has effectively addressed the issue of the quality, safety, and diversity of options for young children by working with Belémé Limited. This cooperation has not only increased the level of specialization in toy rental services, but also enabled parents to choose age-appropriate and safe toys for their children.",
+        "TOPIC": "A company working with TOYSUB."
+    },
+    {
+        "question": "May I introduce the brand of BørneLund and its features?",
+        "input": "The brand introduces BørneLund 2017/07/24, on BørneLund. rneLund is an older toy company that provides educational toys, such as home setups. ToYSUB also has B. ReneLund's wooden toy and educational toy. For example, the following pictures: Fishwood, cartoon bowling, magnet toy toy pre-Børne Lund was founded in 1981 in Japan. BørneLun is a children's forest, with slogans such as \"bringing for fun\".",
+        "output": "BørneLund, an old Japanese brand of educational toys founded in 1981, focuses on the provision of wood-made educational toys and interior applications, including fish-shaped wooden pianos, cartoon bowling balls and magnet toys, highlighting the use of games to promote children's learning and development.",
+        "TOPIC": "BørneLund brand presentation"
+    },
+    {
+        "question": "Why should I choose to use BørneLund's educational toys for my children?",
+        "input": "Starting with imported toys, which now provide most of the educational furniture such as indoor playgrounds and school facilities. And BørneLund's toys are bought all over the country, and BørneLund is thought of when you think of educational toys. Communications magazines are also issued to inform children of all kinds. They also provide multiple products such as logs, musical instruments, etc. that are popular among 1 or 2 children.",
+        "output": "BørneLund not only introduced high-quality toys from abroad, but also focused on providing educational furniture suitable for use in schools and indoor playgrounds, which is highly trusted by parents and educational institutions. It has a rich product that includes wood and musical instruments for children aged one and two, as well as entertainment and learning functions.",
+        "TOPIC": "BørneLund's special advantages"
+    },
+    {
+        "question": "What's the speciality of BørneLund's educational toys?",
+        "input": "BørneLund, as a precursor to educational toys, also produces products that are well described. BørneLund has also been successful in creating a play environment. To ensure safety, the need for children to have fun is satisfied, and attention is paid to the incentives given to the five senses of the child, which are compatible with the type and purpose design proposals. Toys and educational furniture are available throughout the country.",
+        "output": "BørneLund, as a precursor to educational toys, is committed to satisfying children’s needs for fun in a safe environment and highlighting five senses. It can design a demand-driven game environment based on its type and purpose.",
+        "TOPIC": "BørneLund special features for educational toys"
+    },
+    {
+        "question": "What are the features of TOYSUB's toy rental service?",
+        "input": "ToYSUB offers BørneLund's educational toys, which are regularly...valued toy rental services. Toys are recognized by children's toy specialists at all ages, and are re-elected and sent. Regular, quota-based toys are provided and returned to them after their use is over. It does not create many toy purchases, not just the greatest playable spaces for children at home, but the contents of toys change regularly, so that children can start creating more imaginations from early childhood.",
+        "output": "ToYSUB offers a regular, quota-based loan service for BørneLund-type educational toys, selecting children-friendly toys according to age groups, and certified by toy specialists. Parents do not have to worry about buying too many toys to store at home, and children grow up in safe and rich play spaces.",
+        "TOPIC": "The TOYSUB TOYSUB TOY Lease Service."
+    },
+    {
+        "question": "Why is it more cost-effective to choose fixed-term rental services than to buy expensive toys directly?",
+        "input": "High-level wooden toys, educational toys, etc., are mostly high-cost goods that parents are often troubled to buy. TOYSUB regularly provides toy services, and at the same time provides instructions for the use of fun. All toys return to our hands for comprehensive clean-up and sanitary management, and the next service lease is made only after the completion of their work. What does not happen in their homes – what is not used – is discarded; and it is about the present time to love the planet for the environment.",
+        "output": "ToYSUB’s regular fixed rent service allows you to experience a lot of high-quality, high-cost educational toys at a lower cost, and every time we return, we manage cleanliness and hygiene. This is an ideal option for both the economy and the environment.",
+        "TOPIC": "Regular rental services are compared to the price of buying high-priced toys."
+    },
+    {
+        "question": "What are the payment modalities and grant limits for each programme?",
+        "input": "The preferential activities are booked to a full amount, limited to the 30-day programme of the Balanced Car Plan 2020/09/14* (1 year) at $750 per month in 12 instalments, with a total sum of $9,000 (a total of 12 toys received), i.e., delivery.* The 45-day scheme (1.5 years) is ordered at $680 per month for 18 instalments, and a total amount of $12.240 (total of 12 toys received), or delivery. * The number of activities is limited and the delivery is over.",
+        "output": "The event provides two kinds of subscription programmes: the 30-day programme (one year) at $750 per month in 12 instalments, with a total value of $9,000, during which 12 toys were received and balanced vehicle offers were made. The 45-day program (1.5 years), at $680 per month, was paid in 18 instalments, at a total amount of $12,240, and received 12 toys in the same manner, with balanced car grants.",
+        "TOPIC": "ToYSUB programme payment modalities and grant limits"
+    },
+    {
+        "question": "Can the TOYSUB prizes be changed?",
+        "input": "The company will have the right to disqualify any participant from participating and winning an award based on merit, and will retain the award for change and final explanation for the event award.",
+        "output": "The company has the right to cancel any participant’s participation and award.",
+        "TOPIC": "The TOYSUB Merit Award."
+    },
+    {
+        "question": "Did any media introduce TOYSUB's services?",
+        "input": "Media reports were sent to TAYSUB, 2019/03/14, and to https://www.asahi.co.jp/ohaasa/week/backnum/index.html?date.",
+        "output": "ToYSUB was introduced to the TV show \"Good Morning Day\" on a day-to-day television show, in which it was mentioned how the service would make it easier for parents and children to experience multiple toys through toy rentals, and also to raise the joy of parent-child interaction.",
+        "TOPIC": "Media to introduce TOYSUB services"
+    },
+    {
+        "question": "How should pre-school children's toys be chosen to combine their child's interests with their parents' needs?",
+        "input": "The media suggests how to pick pre-school toys. The day-career's strict choice to rent a toy to go to the Trinity News 2021/04/7 \"Toys\" is the favorite, but \"I can't buy it and let go\" is a mental pain for my parents. Toysub leads Japanese toys to the platform, enough to rent toys to keep the children happy and grow!",
+        "output": "In the case of pre-school children, the choice of toys is recommended both as a source of curiosity and learning interest and as a multifunctional and age-appropriate toy.",
+        "TOPIC": "The selection of pre-school children's toys."
+    },
+    {
+        "question": "Why does choosing Toysub's toy rental sharing platform benefit both children and the environment?",
+        "input": "Bloggers recommend new environmental concepts. Toysub's 2021/03/17 is a matter that parents should pay attention to in order for the next generation to have a better future. By chance, there are hosts who recommend \"sharing in lieu of buying\" for pre-school children's toys, and introduce Toysub to lease a shared platform, where the young toy is driven by intellectual toys, which are so sweetly attracted by their philosophy that they make little pudding play with toys that, in addition to loving the Earth, help little pudding grow.",
+        "output": "Toysub’s toy rental sharing platform not only enables children to continue to interact with a variety of intellectual toys, stimulate learning and growth, but also supports the idea of environmental conservation. By sharing toys, the waste of resources generated by buying many toys has been reduced, allowing toys to be used by more families around the world, and by raising children from younger age to care for the planet’s environment, creating a better future for the next generation.",
+        "TOPIC": "The advantages of Toysub's toy rental share platform"
+    },
+    {
+        "question": "Why do many parents buy a lot of toys after the baby's birth?",
+        "input": "Sweets swore never to buy toys for their children before giving birth, really! But when little pudding was born, wondering if it was \"wanted\" by her cute face, I said, \"Okay, Mom buys it for you,\" and even an unwittingly Internet toddler toy recommendation ad, which causes more toys in the house to go to their mother's house.",
+        "output": "Many parents may insist on buying toys before their children are born, but the cute appearance and naive demands of a child tend to soften their parents’ minds. Emotional drive and love for a child make it easier for parents to relax their rules, leading to a growing number of toys.",
+        "TOPIC": "The change in parents' minds after the baby's birth."
+    },
+    {
+        "question": "Toys in the house are very empty. What should I do?",
+        "input": "In fact, there are not many times back home, the toy is a waste of time, and in a short period of time it may not be fit for little pudding's age, and perhaps we have better options, such as ToYSUB's offer of high-quality toy rentals for needs such as children of all ages, easy solutions to the growing use of toys or children already playing games.",
+        "output": "Toy rental services, such as TOYSUB, can be considered to provide high-quality toy rentals suitable for different ages and needs, allowing children to change their toy regularly, not only to save space, but also to avoid stress or child irritation and make it easier for children to have children.",
+        "TOPIC": "A way to solve the problem of space for toys."
+    },
+    {
+        "question": "I'd like to buy an educational toy suitable for a 1-year-old daughter. What can be done to avoid wasting money and make children happy to learn?",
+        "input": "One-year-old child, a young girl of one year-old: Toyokawa County wants to buy a toy for her daughter ' s age, but does not know which one of these toys is suitable for her, and the price of an educational toy is high. If you don ' t want to play or you're playing side by side, buying a toddler makes it more difficult for us to start using TOYSUB. ToySUB has a way of using toys like a schedule. The time that toys can be happy with our daughter is a test of how we continue to use TOYSUB.",
+        "output": "Toys such as TOYSUB can be considered for subscription services, which allow children to have access to different and age-appropriate toys each time, without having to spend a great deal of money buying toys and having fun with their children.",
+        "TOPIC": "Educational toys suitable for a 1-year-old daughter"
+    },
+    {
+        "question": "Why do you recommend Toysub play with toy subscriptions as a parent?",
+        "input": "We'll listen to our ideas and opinions, then we'll choose to send the toys, and every time we change, we're going to look at our backs and adjust the toys provided by the children in a timely fashion. The use of TOYSUB is not just a way to provide toys, it's more a way for us to spend time with our daughters. So here we recommend TOYSUB!",
+        "output": "Toysub listens to our ideas and opinions, adjusts the content of the toy that is sent according to the child's preferences, and consults the client's backlash every time you change a toy, making it more responsive to the needs of the child.",
+        "TOPIC": "TOYSUB is a subscription service for parents to play with"
+    },
+    {
+        "question": "Toysub, why is it suitable for a 1-year-old girl? What are the advantages?",
+        "input": "One-year-old little girl: Tokyo's 2017/07/24 fit all ages and has access to all kinds of toys, is where TOYSUB is very attractive to me, and is an opportunity to start using TOYSUB. It is possible to save more space for collecting toys, or to avoid the risk of buying children who do not like toys, which is the best way to serve them.",
+        "output": "ToYSUB is especially suitable for a 1-year-old girl, because it provides toys that fit all ages and meet children’s development needs. Instead of buying a lot of toys at a time, saving space, and avoiding the purchase of toys that children don’t like and reducing waste and risk.",
+        "TOPIC": "Reasons for attracting the TOYSUB programme"
+    },
+    {
+        "question": "Why is TOYSUB special for a 1-year-old?",
+        "input": "Toys are sent for the first time and then change at a fixed time fully in line with our expectations (save space, buy, but don't like them), children can continue to use their favorite toys, and toys that might not otherwise be bought have the opportunity to play one of the advantages, discuss and recommend them to other relatives and friends, which is very useful for adults, children, and many different toys. If you are interested, you must use them once.",
+        "output": "TOYSUB provides toys of different ages that allow a 1-year-old child to try a variety of toys suitable for the stage of their development, while avoiding buying toys that the child does not like.",
+        "TOPIC": "Toysub, for a 1-year-old."
+    },
+    {
+        "question": "Why is the TOYSUB rent scheme suitable for my 2-year-old boy?",
+        "input": "Hotels recommend 2-year-old boys: ToYSUB is seen on TV in Kanagawa County 2017/07/24, which allows children to play with different toys, avoid buying toys that they don't like by renting them, and do not store toys that children no longer use at home. Considering these advantages, we decided to start using ToYSUB!",
+        "output": "Toysub rents can change toys at any time, which is very easy and dynamic. Many of the toys look fine and fit in the home, making the baby easier.",
+        "TOPIC": "The advantages of the TOYSUB lease scheme"
+    },
+    {
+        "question": "Why choose TOYSUB? Leasing toys is more cost-effective than buying them directly?",
+        "input": "Toys are in good condition, and it is clear that the staff handles the used toys very carefully. There is no need to worry about the choice of toys, there will be no increase in household goods, there are all kinds of toys that we can play, and there will also be a lot of money if all the toys are bought. It is reasonable to consider renting them.",
+        "output": "Select TOYSUB! Renting toys allows children to continue playing with a variety of toys that fit their interests and reach a long stage, and is in a state of cleanness and good quality, so that parents do not have to worry about health and safety.",
+        "TOPIC": "Reasons for matching the TOYSUB Lease Scheme"
+    }
+]
