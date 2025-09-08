@@ -22,4 +22,4 @@ for item in data:
 with open(r"C:\Users\USER\TOYSUB\dataset\cleaned_combined_data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print("✅ 處理完成，已輸出 cleaned_combined_data.json")
+print("輸出 cleaned_combined_data.json")

@@ -33,6 +33,6 @@ for idx, image in enumerate(ws._images):
     output_path = os.path.join(output_folder, f"toy_image_{idx+1}.png")
     img.save(output_path)
     count += 1
-    print(f"✅ 已儲存圖片: {output_path}")
+    print(f"已儲存圖片: {output_path}")
 
-print(f"\n🎉 完成！共儲存 {count} 張圖片至資料夾：{output_folder}")
+print(f"\共儲存 {count} 張圖片至資料夾：{output_folder}")
