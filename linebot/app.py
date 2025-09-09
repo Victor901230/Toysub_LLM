@@ -34,7 +34,8 @@ memory_cache = {}
 manual_documents = extract_all(r"C:\Users\USER\TOYSUB\dataset\english_data\toysub_data.json")
 scratch_documents_tw = extract_all(r"C:\Users\USER\TOYSUB\dataset\english_data\translated_web_data.json")
 toys = load_json_file(r"C:\Users\USER\TOYSUB\dataset\english_data\translated_toys_data.json")
-combined_documents = manual_documents+scratch_documents_tw +toys
+toys_0906 = load_json_file(r"C:\Users\USER\TOYSUB\dataset\english_data\translated_toys0906.json")
+combined_documents = manual_documents+scratch_documents_tw +toys + toys_0906
 vectorstore,document = vectorize(combined_documents, save_path="faiss_index")
 
 """關鍵字搜索庫"""
