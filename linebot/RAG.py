@@ -90,11 +90,7 @@ def load_finetuning_model():
         bnb_4bit_quant_type="nf4",
         llm_int8_enable_fp32_cpu_offload=True
     )
-    max_memory = {
-            0: "14GiB",        # ✅ 用整數表示 GPU ID 0
-            "cpu": "32GiB"
-        }
-
+    max_memory = {0: "14GiB", "cpu": "32GiB"}
     
     base_model = AutoModelForCausalLM.from_pretrained(
             "mistralai/Mistral-7B-v0.1",
